@@ -1,0 +1,42 @@
+A. Perform error management on the given data using pandas package.
+	i. Drop the Columns Where All Elements Are Missing Values
+	ii. Drop the Columns Where Any of the Elements Is Missing Values
+	iii. Keep Only the Rows That Contain a Maximum of Two Missing Values
+	iv. Replacing missing values with mean, median, min, max
+#Vermeulen PLC
+B. Write Python / R program to create the network routing diagram from the given data on routers.
+	Assess-Network-Routing-Company.py
+	Assess-Network-Routing-Customer.py
+	Assess-Network-Routing-Node.py
+C.  Write a Python / R program to build directed acyclic graph
+	Assess-DAG-Location.py 
+	Customer Location DAG - Assess-DAG-Location.py
+	Assess-DAG-GPS.py
+#Krennwallner AG
+D. Write a Python / R program to pick the content for Bill Boards from the given data.
+	Picking Content for Billboards-Assess-DE-Billboard.py
+E. Write a Python / R program to generate GML file from the given csv file.
+	Understanding Your Online Visitor Data - Assess-Billboard_2_Visitor.py
+	Planning an Event for Top-Ten Customers - Assess-Visitors.py 
+#Hillman Ltd
+F. Write a Python / R program to plan the locations of the warehouses from the given data.
+	 Assess-Warehouse-Address.py
+G. Write a Python / R program using data science via clustering to determine new warehouses using the given data.
+	Assess-Warehouse-Global.py 
+H. Using the given data, write a Python / R program to plan the shipping routes for best-fit international logistics.
+	Assess-Best-Fit-Logistics.py 
+I. Write a Python / R program to decide the best packing option to ship in container from the given data.
+	Assess-Shipping-Containers.py
+J. Write a Python program to create a delivery route using the given data.
+	 Assess-Shipping-Routes.py
+#Clark Ltd
+K. Write a Python program to create Simple forex trading planner from the given data.
+	Assess-Forex.py
+L. Write a Python program to process the balance sheet to ensure that only good data is processing.
+	Assess-Financials.py
+    Write a Python program to store all master records for the financial calendar
+	Assess-Calendar.py
+M. Write a Python program to generate payroll from the given data.
+	 Assess-People.py 
+
+

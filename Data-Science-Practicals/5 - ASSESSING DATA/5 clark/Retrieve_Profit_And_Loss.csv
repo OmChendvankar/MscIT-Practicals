@@ -1,0 +1,2443 @@
+QTR,TypeOfEntry,ProductClass1,ProductClass2,ProductClass3,Amount,QTY
+2017Q02,Cost of Sales,Hot Blanket,,,2989.2,12000
+2017Q02,Cost of Sales,Kitty Box,,,19928,30000
+2017Q02,Cost of Sales,Maxi Dog,,,34874,15000
+2017Q02,Cost of Sales,Muis Huis,,,29892,4000
+2017Q02,Cost of Sales,Water Jug,,,199.28,180000
+2017Q02,EXPENSES,Adminstrative,Depreciation,,1.14e+08,
+2017Q02,EXPENSES,Adminstrative,Insurance,,24700000,
+2017Q02,EXPENSES,Adminstrative,Meals and entertainment,,570000,
+2017Q02,EXPENSES,Adminstrative,Outside services,,28500000,
+2017Q02,EXPENSES,Adminstrative,Rent,,190000,
+2017Q02,EXPENSES,Adminstrative,Repairs and maintence,,15200000,
+2017Q02,EXPENSES,Adminstrative,Supplies,,760000,
+2017Q02,EXPENSES,Adminstrative,Telephone,,1.9e+07,
+2017Q02,EXPENSES,Adminstrative,Utilities,,36100000,
+2017Q02,EXPENSES,Adminstrative,Wages and salaries,,5.7e+07,
+2017Q02,EXPENSES,Adminstrative,Web site consultancy,,760000,
+2017Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,380000,
+2017Q02,EXPENSES,Adminstrative,Web site maintence,,7600,
+2017Q02,EXPENSES,Development,Patents,,114000,
+2017Q02,EXPENSES,Development,Technology Rental,,570000,
+2017Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,456000,
+2017Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,45600000,
+2017Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,760000,
+2017Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,57000,
+2017Q02,Non-Operation Income,Gifts and Dotions,,,38000,
+2017Q02,Non-Operation Income,Interest,,,114000,
+2017Q02,Non-Operation Income,Other Income,,,1330,
+2017Q02,Non-Operation Income,Rental,,,1520000,
+2017Q02,Sales Revenue,Hot Blanket,,,20384,20000
+2017Q02,Sales Revenue,Kitty Box,,,76440,30000
+2017Q02,Sales Revenue,Maxi Dog,,,101920,20000
+2017Q02,Sales Revenue,Muis Huis,,,305760,5000
+2017Q02,Sales Revenue,Water Jug,,,509.6,2e+05
+2017Q01,Cost of Sales,Hot Blanket,,,675.3,12000
+2017Q01,Cost of Sales,Kitty Box,,,4502,30000
+2017Q01,Cost of Sales,Maxi Dog,,,7878.5,15000
+2017Q01,Cost of Sales,Muis Huis,,,6753,4000
+2017Q01,Cost of Sales,Water Jug,,,45.02,180000
+2017Q01,EXPENSES,Adminstrative,Depreciation,,3.3e+07,
+2017Q01,EXPENSES,Adminstrative,Insurance,,7150000,
+2017Q01,EXPENSES,Adminstrative,Meals and entertainment,,165000,
+2017Q01,EXPENSES,Adminstrative,Outside services,,8250000,
+2017Q01,EXPENSES,Adminstrative,Rent,,55000,
+2017Q01,EXPENSES,Adminstrative,Repairs and maintence,,4400000,
+2017Q01,EXPENSES,Adminstrative,Supplies,,220000,
+2017Q01,EXPENSES,Adminstrative,Telephone,,5500000,
+2017Q01,EXPENSES,Adminstrative,Utilities,,10450000,
+2017Q01,EXPENSES,Adminstrative,Wages and salaries,,16500000,
+2017Q01,EXPENSES,Adminstrative,Web site consultancy,,220000,
+2017Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,110000,
+2017Q01,EXPENSES,Adminstrative,Web site maintence,,2200,
+2017Q01,EXPENSES,Development,Patents,,33000,
+2017Q01,EXPENSES,Development,Technology Rental,,165000,
+2017Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,132000,
+2017Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,13200000,
+2017Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,220000,
+2017Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,16500,
+2017Q01,Non-Operation Income,Gifts and Dotions,,,11000,
+2017Q01,Non-Operation Income,Interest,,,33000,
+2017Q01,Non-Operation Income,Other Income,,,385,
+2017Q01,Non-Operation Income,Rental,,,440000,
+2017Q01,Sales Revenue,Hot Blanket,,,698,20000
+2017Q01,Sales Revenue,Kitty Box,,,2617.5,30000
+2017Q01,Sales Revenue,Maxi Dog,,,3490,20000
+2017Q01,Sales Revenue,Muis Huis,,,10470,5000
+2017Q01,Sales Revenue,Water Jug,,,17.45,2e+05
+2016Q04,Cost of Sales,Hot Blanket,,,55.5,12000
+2016Q04,Cost of Sales,Kitty Box,,,370,30000
+2016Q04,Cost of Sales,Maxi Dog,,,647.5,15000
+2016Q04,Cost of Sales,Muis Huis,,,555,4000
+2016Q04,Cost of Sales,Water Jug,,,3.7,180000
+2016Q04,EXPENSES,Adminstrative,Depreciation,,2.4e+07,
+2016Q04,EXPENSES,Adminstrative,Insurance,,5200000,
+2016Q04,EXPENSES,Adminstrative,Meals and entertainment,,120000,
+2016Q04,EXPENSES,Adminstrative,Outside services,,6e+06,
+2016Q04,EXPENSES,Adminstrative,Rent,,40000,
+2016Q04,EXPENSES,Adminstrative,Repairs and maintence,,3200000,
+2016Q04,EXPENSES,Adminstrative,Supplies,,160000,
+2016Q04,EXPENSES,Adminstrative,Telephone,,4e+06,
+2016Q04,EXPENSES,Adminstrative,Utilities,,7600000,
+2016Q04,EXPENSES,Adminstrative,Wages and salaries,,1.2e+07,
+2016Q04,EXPENSES,Adminstrative,Web site consultancy,,160000,
+2016Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,80000,
+2016Q04,EXPENSES,Adminstrative,Web site maintence,,1600,
+2016Q04,EXPENSES,Development,Patents,,24000,
+2016Q04,EXPENSES,Development,Technology Rental,,120000,
+2016Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,96000,
+2016Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,9600000,
+2016Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,160000,
+2016Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,12000,
+2016Q04,Non-Operation Income,Gifts and Dotions,,,8000,
+2016Q04,Non-Operation Income,Interest,,,24000,
+2016Q04,Non-Operation Income,Other Income,,,280,
+2016Q04,Non-Operation Income,Rental,,,320000,
+2016Q04,Sales Revenue,Hot Blanket,,,34208,20000
+2016Q04,Sales Revenue,Kitty Box,,,128280,30000
+2016Q04,Sales Revenue,Maxi Dog,,,171040,20000
+2016Q04,Sales Revenue,Muis Huis,,,513120,5000
+2016Q04,Sales Revenue,Water Jug,,,855.2,2e+05
+2016Q03,Cost of Sales,Hot Blanket,,,1269.3,12000
+2016Q03,Cost of Sales,Kitty Box,,,8462,30000
+2016Q03,Cost of Sales,Maxi Dog,,,14808.5,15000
+2016Q03,Cost of Sales,Muis Huis,,,12693,4000
+2016Q03,Cost of Sales,Water Jug,,,84.62,180000
+2016Q03,EXPENSES,Adminstrative,Depreciation,,3.3e+07,
+2016Q03,EXPENSES,Adminstrative,Insurance,,7150000,
+2016Q03,EXPENSES,Adminstrative,Meals and entertainment,,165000,
+2016Q03,EXPENSES,Adminstrative,Outside services,,8250000,
+2016Q03,EXPENSES,Adminstrative,Rent,,55000,
+2016Q03,EXPENSES,Adminstrative,Repairs and maintence,,4400000,
+2016Q03,EXPENSES,Adminstrative,Supplies,,220000,
+2016Q03,EXPENSES,Adminstrative,Telephone,,5500000,
+2016Q03,EXPENSES,Adminstrative,Utilities,,10450000,
+2016Q03,EXPENSES,Adminstrative,Wages and salaries,,16500000,
+2016Q03,EXPENSES,Adminstrative,Web site consultancy,,220000,
+2016Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,110000,
+2016Q03,EXPENSES,Adminstrative,Web site maintence,,2200,
+2016Q03,EXPENSES,Development,Patents,,33000,
+2016Q03,EXPENSES,Development,Technology Rental,,165000,
+2016Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,132000,
+2016Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,13200000,
+2016Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,220000,
+2016Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,16500,
+2016Q03,Non-Operation Income,Gifts and Dotions,,,11000,
+2016Q03,Non-Operation Income,Interest,,,33000,
+2016Q03,Non-Operation Income,Other Income,,,385,
+2016Q03,Non-Operation Income,Rental,,,440000,
+2016Q03,Sales Revenue,Hot Blanket,,,13520,20000
+2016Q03,Sales Revenue,Kitty Box,,,50700,30000
+2016Q03,Sales Revenue,Maxi Dog,,,67600,20000
+2016Q03,Sales Revenue,Muis Huis,,,202800,5000
+2016Q03,Sales Revenue,Water Jug,,,338,2e+05
+2016Q02,Cost of Sales,Hot Blanket,,,1695.9,12000
+2016Q02,Cost of Sales,Kitty Box,,,11306,30000
+2016Q02,Cost of Sales,Maxi Dog,,,19785.5,15000
+2016Q02,Cost of Sales,Muis Huis,,,16959,4000
+2016Q02,Cost of Sales,Water Jug,,,113.06,180000
+2016Q02,EXPENSES,Adminstrative,Depreciation,,1.38e+08,
+2016Q02,EXPENSES,Adminstrative,Insurance,,29900000,
+2016Q02,EXPENSES,Adminstrative,Meals and entertainment,,690000,
+2016Q02,EXPENSES,Adminstrative,Outside services,,34500000,
+2016Q02,EXPENSES,Adminstrative,Rent,,230000,
+2016Q02,EXPENSES,Adminstrative,Repairs and maintence,,18400000,
+2016Q02,EXPENSES,Adminstrative,Supplies,,920000,
+2016Q02,EXPENSES,Adminstrative,Telephone,,2.3e+07,
+2016Q02,EXPENSES,Adminstrative,Utilities,,43700000,
+2016Q02,EXPENSES,Adminstrative,Wages and salaries,,6.9e+07,
+2016Q02,EXPENSES,Adminstrative,Web site consultancy,,920000,
+2016Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,460000,
+2016Q02,EXPENSES,Adminstrative,Web site maintence,,9200,
+2016Q02,EXPENSES,Development,Patents,,138000,
+2016Q02,EXPENSES,Development,Technology Rental,,690000,
+2016Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,552000,
+2016Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,55200000,
+2016Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,920000,
+2016Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,69000,
+2016Q02,Non-Operation Income,Gifts and Dotions,,,46000,
+2016Q02,Non-Operation Income,Interest,,,138000,
+2016Q02,Non-Operation Income,Other Income,,,1610,
+2016Q02,Non-Operation Income,Rental,,,1840000,
+2016Q02,Sales Revenue,Hot Blanket,,,18340,20000
+2016Q02,Sales Revenue,Kitty Box,,,68775,30000
+2016Q02,Sales Revenue,Maxi Dog,,,91700,20000
+2016Q02,Sales Revenue,Muis Huis,,,275100,5000
+2016Q02,Sales Revenue,Water Jug,,,458.5,2e+05
+2016Q01,Cost of Sales,Hot Blanket,,,1811.4,12000
+2016Q01,Cost of Sales,Kitty Box,,,12076,30000
+2016Q01,Cost of Sales,Maxi Dog,,,21133,15000
+2016Q01,Cost of Sales,Muis Huis,,,18114,4000
+2016Q01,Cost of Sales,Water Jug,,,120.76,180000
+2016Q01,EXPENSES,Adminstrative,Depreciation,,1.08e+08,
+2016Q01,EXPENSES,Adminstrative,Insurance,,23400000,
+2016Q01,EXPENSES,Adminstrative,Meals and entertainment,,540000,
+2016Q01,EXPENSES,Adminstrative,Outside services,,2.7e+07,
+2016Q01,EXPENSES,Adminstrative,Rent,,180000,
+2016Q01,EXPENSES,Adminstrative,Repairs and maintence,,14400000,
+2016Q01,EXPENSES,Adminstrative,Supplies,,720000,
+2016Q01,EXPENSES,Adminstrative,Telephone,,1.8e+07,
+2016Q01,EXPENSES,Adminstrative,Utilities,,34200000,
+2016Q01,EXPENSES,Adminstrative,Wages and salaries,,5.4e+07,
+2016Q01,EXPENSES,Adminstrative,Web site consultancy,,720000,
+2016Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,360000,
+2016Q01,EXPENSES,Adminstrative,Web site maintence,,7200,
+2016Q01,EXPENSES,Development,Patents,,108000,
+2016Q01,EXPENSES,Development,Technology Rental,,540000,
+2016Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,432000,
+2016Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,43200000,
+2016Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,720000,
+2016Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,54000,
+2016Q01,Non-Operation Income,Gifts and Dotions,,,36000,
+2016Q01,Non-Operation Income,Interest,,,108000,
+2016Q01,Non-Operation Income,Other Income,,,1260,
+2016Q01,Non-Operation Income,Rental,,,1440000,
+2016Q01,Sales Revenue,Hot Blanket,,,39708,20000
+2016Q01,Sales Revenue,Kitty Box,,,148905,30000
+2016Q01,Sales Revenue,Maxi Dog,,,198540,20000
+2016Q01,Sales Revenue,Muis Huis,,,595620,5000
+2016Q01,Sales Revenue,Water Jug,,,992.7,2e+05
+2015Q04,Cost of Sales,Hot Blanket,,,1444.5,12000
+2015Q04,Cost of Sales,Kitty Box,,,9630,30000
+2015Q04,Cost of Sales,Maxi Dog,,,16852.5,15000
+2015Q04,Cost of Sales,Muis Huis,,,14445,4000
+2015Q04,Cost of Sales,Water Jug,,,96.3,180000
+2015Q04,EXPENSES,Adminstrative,Depreciation,,1.35e+08,
+2015Q04,EXPENSES,Adminstrative,Insurance,,29250000,
+2015Q04,EXPENSES,Adminstrative,Meals and entertainment,,675000,
+2015Q04,EXPENSES,Adminstrative,Outside services,,33750000,
+2015Q04,EXPENSES,Adminstrative,Rent,,225000,
+2015Q04,EXPENSES,Adminstrative,Repairs and maintence,,1.8e+07,
+2015Q04,EXPENSES,Adminstrative,Supplies,,9e+05,
+2015Q04,EXPENSES,Adminstrative,Telephone,,22500000,
+2015Q04,EXPENSES,Adminstrative,Utilities,,42750000,
+2015Q04,EXPENSES,Adminstrative,Wages and salaries,,67500000,
+2015Q04,EXPENSES,Adminstrative,Web site consultancy,,9e+05,
+2015Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,450000,
+2015Q04,EXPENSES,Adminstrative,Web site maintence,,9000,
+2015Q04,EXPENSES,Development,Patents,,135000,
+2015Q04,EXPENSES,Development,Technology Rental,,675000,
+2015Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,540000,
+2015Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,5.4e+07,
+2015Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,9e+05,
+2015Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,67500,
+2015Q04,Non-Operation Income,Gifts and Dotions,,,45000,
+2015Q04,Non-Operation Income,Interest,,,135000,
+2015Q04,Non-Operation Income,Other Income,,,1575,
+2015Q04,Non-Operation Income,Rental,,,1800000,
+2015Q04,Sales Revenue,Hot Blanket,,,5580,20000
+2015Q04,Sales Revenue,Kitty Box,,,20925,30000
+2015Q04,Sales Revenue,Maxi Dog,,,27900,20000
+2015Q04,Sales Revenue,Muis Huis,,,83700,5000
+2015Q04,Sales Revenue,Water Jug,,,139.5,2e+05
+2015Q03,Cost of Sales,Hot Blanket,,,68.4,12000
+2015Q03,Cost of Sales,Kitty Box,,,456,30000
+2015Q03,Cost of Sales,Maxi Dog,,,798,15000
+2015Q03,Cost of Sales,Muis Huis,,,684,4000
+2015Q03,Cost of Sales,Water Jug,,,4.56,180000
+2015Q03,EXPENSES,Adminstrative,Depreciation,,1.2e+08,
+2015Q03,EXPENSES,Adminstrative,Insurance,,2.6e+07,
+2015Q03,EXPENSES,Adminstrative,Meals and entertainment,,6e+05,
+2015Q03,EXPENSES,Adminstrative,Outside services,,3e+07,
+2015Q03,EXPENSES,Adminstrative,Rent,,2e+05,
+2015Q03,EXPENSES,Adminstrative,Repairs and maintence,,1.6e+07,
+2015Q03,EXPENSES,Adminstrative,Supplies,,8e+05,
+2015Q03,EXPENSES,Adminstrative,Telephone,,2e+07,
+2015Q03,EXPENSES,Adminstrative,Utilities,,3.8e+07,
+2015Q03,EXPENSES,Adminstrative,Wages and salaries,,6e+07,
+2015Q03,EXPENSES,Adminstrative,Web site consultancy,,8e+05,
+2015Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,4e+05,
+2015Q03,EXPENSES,Adminstrative,Web site maintence,,8000,
+2015Q03,EXPENSES,Development,Patents,,120000,
+2015Q03,EXPENSES,Development,Technology Rental,,6e+05,
+2015Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,480000,
+2015Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,4.8e+07,
+2015Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,8e+05,
+2015Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,60000,
+2015Q03,Non-Operation Income,Gifts and Dotions,,,40000,
+2015Q03,Non-Operation Income,Interest,,,120000,
+2015Q03,Non-Operation Income,Other Income,,,1400,
+2015Q03,Non-Operation Income,Rental,,,1600000,
+2015Q03,Sales Revenue,Hot Blanket,,,6412,20000
+2015Q03,Sales Revenue,Kitty Box,,,24045,30000
+2015Q03,Sales Revenue,Maxi Dog,,,32060,20000
+2015Q03,Sales Revenue,Muis Huis,,,96180,5000
+2015Q03,Sales Revenue,Water Jug,,,160.3,2e+05
+2015Q02,Cost of Sales,Hot Blanket,,,2337.3,12000
+2015Q02,Cost of Sales,Kitty Box,,,15582,30000
+2015Q02,Cost of Sales,Maxi Dog,,,27268.5,15000
+2015Q02,Cost of Sales,Muis Huis,,,23373,4000
+2015Q02,Cost of Sales,Water Jug,,,155.82,180000
+2015Q02,EXPENSES,Adminstrative,Depreciation,,3.3e+07,
+2015Q02,EXPENSES,Adminstrative,Insurance,,7150000,
+2015Q02,EXPENSES,Adminstrative,Meals and entertainment,,165000,
+2015Q02,EXPENSES,Adminstrative,Outside services,,8250000,
+2015Q02,EXPENSES,Adminstrative,Rent,,55000,
+2015Q02,EXPENSES,Adminstrative,Repairs and maintence,,4400000,
+2015Q02,EXPENSES,Adminstrative,Supplies,,220000,
+2015Q02,EXPENSES,Adminstrative,Telephone,,5500000,
+2015Q02,EXPENSES,Adminstrative,Utilities,,10450000,
+2015Q02,EXPENSES,Adminstrative,Wages and salaries,,16500000,
+2015Q02,EXPENSES,Adminstrative,Web site consultancy,,220000,
+2015Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,110000,
+2015Q02,EXPENSES,Adminstrative,Web site maintence,,2200,
+2015Q02,EXPENSES,Development,Patents,,33000,
+2015Q02,EXPENSES,Development,Technology Rental,,165000,
+2015Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,132000,
+2015Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,13200000,
+2015Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,220000,
+2015Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,16500,
+2015Q02,Non-Operation Income,Gifts and Dotions,,,11000,
+2015Q02,Non-Operation Income,Interest,,,33000,
+2015Q02,Non-Operation Income,Other Income,,,385,
+2015Q02,Non-Operation Income,Rental,,,440000,
+2015Q02,Sales Revenue,Hot Blanket,,,12744,20000
+2015Q02,Sales Revenue,Kitty Box,,,47790,30000
+2015Q02,Sales Revenue,Maxi Dog,,,63720,20000
+2015Q02,Sales Revenue,Muis Huis,,,191160,5000
+2015Q02,Sales Revenue,Water Jug,,,318.6,2e+05
+2015Q01,Cost of Sales,Hot Blanket,,,538.5,12000
+2015Q01,Cost of Sales,Kitty Box,,,3590,30000
+2015Q01,Cost of Sales,Maxi Dog,,,6282.5,15000
+2015Q01,Cost of Sales,Muis Huis,,,5385,4000
+2015Q01,Cost of Sales,Water Jug,,,35.9,180000
+2015Q01,EXPENSES,Adminstrative,Depreciation,,6e+06,
+2015Q01,EXPENSES,Adminstrative,Insurance,,1300000,
+2015Q01,EXPENSES,Adminstrative,Meals and entertainment,,30000,
+2015Q01,EXPENSES,Adminstrative,Outside services,,1500000,
+2015Q01,EXPENSES,Adminstrative,Rent,,10000,
+2015Q01,EXPENSES,Adminstrative,Repairs and maintence,,8e+05,
+2015Q01,EXPENSES,Adminstrative,Supplies,,40000,
+2015Q01,EXPENSES,Adminstrative,Telephone,,1e+06,
+2015Q01,EXPENSES,Adminstrative,Utilities,,1900000,
+2015Q01,EXPENSES,Adminstrative,Wages and salaries,,3e+06,
+2015Q01,EXPENSES,Adminstrative,Web site consultancy,,40000,
+2015Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,20000,
+2015Q01,EXPENSES,Adminstrative,Web site maintence,,400,
+2015Q01,EXPENSES,Development,Patents,,6000,
+2015Q01,EXPENSES,Development,Technology Rental,,30000,
+2015Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,24000,
+2015Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,2400000,
+2015Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,40000,
+2015Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,3000,
+2015Q01,Non-Operation Income,Gifts and Dotions,,,2000,
+2015Q01,Non-Operation Income,Interest,,,6000,
+2015Q01,Non-Operation Income,Other Income,,,70,
+2015Q01,Non-Operation Income,Rental,,,80000,
+2015Q01,Sales Revenue,Hot Blanket,,,31600,20000
+2015Q01,Sales Revenue,Kitty Box,,,118500,30000
+2015Q01,Sales Revenue,Maxi Dog,,,158000,20000
+2015Q01,Sales Revenue,Muis Huis,,,474000,5000
+2015Q01,Sales Revenue,Water Jug,,,790,2e+05
+2014Q04,Cost of Sales,Hot Blanket,,,2716.8,12000
+2014Q04,Cost of Sales,Kitty Box,,,18112,30000
+2014Q04,Cost of Sales,Maxi Dog,,,31696,15000
+2014Q04,Cost of Sales,Muis Huis,,,27168,4000
+2014Q04,Cost of Sales,Water Jug,,,181.12,180000
+2014Q04,EXPENSES,Adminstrative,Depreciation,,9.6e+07,
+2014Q04,EXPENSES,Adminstrative,Insurance,,20800000,
+2014Q04,EXPENSES,Adminstrative,Meals and entertainment,,480000,
+2014Q04,EXPENSES,Adminstrative,Outside services,,2.4e+07,
+2014Q04,EXPENSES,Adminstrative,Rent,,160000,
+2014Q04,EXPENSES,Adminstrative,Repairs and maintence,,12800000,
+2014Q04,EXPENSES,Adminstrative,Supplies,,640000,
+2014Q04,EXPENSES,Adminstrative,Telephone,,1.6e+07,
+2014Q04,EXPENSES,Adminstrative,Utilities,,30400000,
+2014Q04,EXPENSES,Adminstrative,Wages and salaries,,4.8e+07,
+2014Q04,EXPENSES,Adminstrative,Web site consultancy,,640000,
+2014Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,320000,
+2014Q04,EXPENSES,Adminstrative,Web site maintence,,6400,
+2014Q04,EXPENSES,Development,Patents,,96000,
+2014Q04,EXPENSES,Development,Technology Rental,,480000,
+2014Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,384000,
+2014Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,38400000,
+2014Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,640000,
+2014Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,48000,
+2014Q04,Non-Operation Income,Gifts and Dotions,,,32000,
+2014Q04,Non-Operation Income,Interest,,,96000,
+2014Q04,Non-Operation Income,Other Income,,,1120,
+2014Q04,Non-Operation Income,Rental,,,1280000,
+2014Q04,Sales Revenue,Hot Blanket,,,36056,20000
+2014Q04,Sales Revenue,Kitty Box,,,135210,30000
+2014Q04,Sales Revenue,Maxi Dog,,,180280,20000
+2014Q04,Sales Revenue,Muis Huis,,,540840,5000
+2014Q04,Sales Revenue,Water Jug,,,901.4,2e+05
+2014Q03,Cost of Sales,Hot Blanket,,,2630.4,12000
+2014Q03,Cost of Sales,Kitty Box,,,17536,30000
+2014Q03,Cost of Sales,Maxi Dog,,,30688,15000
+2014Q03,Cost of Sales,Muis Huis,,,26304,4000
+2014Q03,Cost of Sales,Water Jug,,,175.36,180000
+2014Q03,EXPENSES,Adminstrative,Depreciation,,6.9e+07,
+2014Q03,EXPENSES,Adminstrative,Insurance,,14950000,
+2014Q03,EXPENSES,Adminstrative,Meals and entertainment,,345000,
+2014Q03,EXPENSES,Adminstrative,Outside services,,17250000,
+2014Q03,EXPENSES,Adminstrative,Rent,,115000,
+2014Q03,EXPENSES,Adminstrative,Repairs and maintence,,9200000,
+2014Q03,EXPENSES,Adminstrative,Supplies,,460000,
+2014Q03,EXPENSES,Adminstrative,Telephone,,11500000,
+2014Q03,EXPENSES,Adminstrative,Utilities,,21850000,
+2014Q03,EXPENSES,Adminstrative,Wages and salaries,,34500000,
+2014Q03,EXPENSES,Adminstrative,Web site consultancy,,460000,
+2014Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,230000,
+2014Q03,EXPENSES,Adminstrative,Web site maintence,,4600,
+2014Q03,EXPENSES,Development,Patents,,69000,
+2014Q03,EXPENSES,Development,Technology Rental,,345000,
+2014Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,276000,
+2014Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,27600000,
+2014Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,460000,
+2014Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,34500,
+2014Q03,Non-Operation Income,Gifts and Dotions,,,23000,
+2014Q03,Non-Operation Income,Interest,,,69000,
+2014Q03,Non-Operation Income,Other Income,,,805,
+2014Q03,Non-Operation Income,Rental,,,920000,
+2014Q03,Sales Revenue,Hot Blanket,,,35208,20000
+2014Q03,Sales Revenue,Kitty Box,,,132030,30000
+2014Q03,Sales Revenue,Maxi Dog,,,176040,20000
+2014Q03,Sales Revenue,Muis Huis,,,528120,5000
+2014Q03,Sales Revenue,Water Jug,,,880.2,2e+05
+2014Q02,Cost of Sales,Hot Blanket,,,882.9,12000
+2014Q02,Cost of Sales,Kitty Box,,,5886,30000
+2014Q02,Cost of Sales,Maxi Dog,,,10300.5,15000
+2014Q02,Cost of Sales,Muis Huis,,,8829,4000
+2014Q02,Cost of Sales,Water Jug,,,58.86,180000
+2014Q02,EXPENSES,Adminstrative,Depreciation,,5.4e+07,
+2014Q02,EXPENSES,Adminstrative,Insurance,,11700000,
+2014Q02,EXPENSES,Adminstrative,Meals and entertainment,,270000,
+2014Q02,EXPENSES,Adminstrative,Outside services,,13500000,
+2014Q02,EXPENSES,Adminstrative,Rent,,90000,
+2014Q02,EXPENSES,Adminstrative,Repairs and maintence,,7200000,
+2014Q02,EXPENSES,Adminstrative,Supplies,,360000,
+2014Q02,EXPENSES,Adminstrative,Telephone,,9e+06,
+2014Q02,EXPENSES,Adminstrative,Utilities,,17100000,
+2014Q02,EXPENSES,Adminstrative,Wages and salaries,,2.7e+07,
+2014Q02,EXPENSES,Adminstrative,Web site consultancy,,360000,
+2014Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,180000,
+2014Q02,EXPENSES,Adminstrative,Web site maintence,,3600,
+2014Q02,EXPENSES,Development,Patents,,54000,
+2014Q02,EXPENSES,Development,Technology Rental,,270000,
+2014Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,216000,
+2014Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,21600000,
+2014Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,360000,
+2014Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,27000,
+2014Q02,Non-Operation Income,Gifts and Dotions,,,18000,
+2014Q02,Non-Operation Income,Interest,,,54000,
+2014Q02,Non-Operation Income,Other Income,,,630,
+2014Q02,Non-Operation Income,Rental,,,720000,
+2014Q02,Sales Revenue,Hot Blanket,,,31862,20000
+2014Q02,Sales Revenue,Kitty Box,,,119482.5,30000
+2014Q02,Sales Revenue,Maxi Dog,,,159310,20000
+2014Q02,Sales Revenue,Muis Huis,,,477930,5000
+2014Q02,Sales Revenue,Water Jug,,,796.55,2e+05
+2014Q01,Cost of Sales,Hot Blanket,,,2793.9,12000
+2014Q01,Cost of Sales,Kitty Box,,,18626,30000
+2014Q01,Cost of Sales,Maxi Dog,,,32595.5,15000
+2014Q01,Cost of Sales,Muis Huis,,,27939,4000
+2014Q01,Cost of Sales,Water Jug,,,186.26,180000
+2014Q01,EXPENSES,Adminstrative,Depreciation,,3.6e+07,
+2014Q01,EXPENSES,Adminstrative,Insurance,,7800000,
+2014Q01,EXPENSES,Adminstrative,Meals and entertainment,,180000,
+2014Q01,EXPENSES,Adminstrative,Outside services,,9e+06,
+2014Q01,EXPENSES,Adminstrative,Rent,,60000,
+2014Q01,EXPENSES,Adminstrative,Repairs and maintence,,4800000,
+2014Q01,EXPENSES,Adminstrative,Supplies,,240000,
+2014Q01,EXPENSES,Adminstrative,Telephone,,6e+06,
+2014Q01,EXPENSES,Adminstrative,Utilities,,11400000,
+2014Q01,EXPENSES,Adminstrative,Wages and salaries,,1.8e+07,
+2014Q01,EXPENSES,Adminstrative,Web site consultancy,,240000,
+2014Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,120000,
+2014Q01,EXPENSES,Adminstrative,Web site maintence,,2400,
+2014Q01,EXPENSES,Development,Patents,,36000,
+2014Q01,EXPENSES,Development,Technology Rental,,180000,
+2014Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,144000,
+2014Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,14400000,
+2014Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,240000,
+2014Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,18000,
+2014Q01,Non-Operation Income,Gifts and Dotions,,,12000,
+2014Q01,Non-Operation Income,Interest,,,36000,
+2014Q01,Non-Operation Income,Other Income,,,420,
+2014Q01,Non-Operation Income,Rental,,,480000,
+2014Q01,Sales Revenue,Hot Blanket,,,10182,20000
+2014Q01,Sales Revenue,Kitty Box,,,38182.5,30000
+2014Q01,Sales Revenue,Maxi Dog,,,50910,20000
+2014Q01,Sales Revenue,Muis Huis,,,152730,5000
+2014Q01,Sales Revenue,Water Jug,,,254.55,2e+05
+2013Q04,Cost of Sales,Hot Blanket,,,1293,12000
+2013Q04,Cost of Sales,Kitty Box,,,8620,30000
+2013Q04,Cost of Sales,Maxi Dog,,,15085,15000
+2013Q04,Cost of Sales,Muis Huis,,,12930,4000
+2013Q04,Cost of Sales,Water Jug,,,86.2,180000
+2013Q04,EXPENSES,Adminstrative,Depreciation,,9.9e+07,
+2013Q04,EXPENSES,Adminstrative,Insurance,,21450000,
+2013Q04,EXPENSES,Adminstrative,Meals and entertainment,,495000,
+2013Q04,EXPENSES,Adminstrative,Outside services,,24750000,
+2013Q04,EXPENSES,Adminstrative,Rent,,165000,
+2013Q04,EXPENSES,Adminstrative,Repairs and maintence,,13200000,
+2013Q04,EXPENSES,Adminstrative,Supplies,,660000,
+2013Q04,EXPENSES,Adminstrative,Telephone,,16500000,
+2013Q04,EXPENSES,Adminstrative,Utilities,,31350000,
+2013Q04,EXPENSES,Adminstrative,Wages and salaries,,49500000,
+2013Q04,EXPENSES,Adminstrative,Web site consultancy,,660000,
+2013Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,330000,
+2013Q04,EXPENSES,Adminstrative,Web site maintence,,6600,
+2013Q04,EXPENSES,Development,Patents,,99000,
+2013Q04,EXPENSES,Development,Technology Rental,,495000,
+2013Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,396000,
+2013Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,39600000,
+2013Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,660000,
+2013Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,49500,
+2013Q04,Non-Operation Income,Gifts and Dotions,,,33000,
+2013Q04,Non-Operation Income,Interest,,,99000,
+2013Q04,Non-Operation Income,Other Income,,,1155,
+2013Q04,Non-Operation Income,Rental,,,1320000,
+2013Q04,Sales Revenue,Hot Blanket,,,28000,20000
+2013Q04,Sales Revenue,Kitty Box,,,105000,30000
+2013Q04,Sales Revenue,Maxi Dog,,,140000,20000
+2013Q04,Sales Revenue,Muis Huis,,,420000,5000
+2013Q04,Sales Revenue,Water Jug,,,700,2e+05
+2013Q03,Cost of Sales,Hot Blanket,,,2892.6,12000
+2013Q03,Cost of Sales,Kitty Box,,,19284,30000
+2013Q03,Cost of Sales,Maxi Dog,,,33747,15000
+2013Q03,Cost of Sales,Muis Huis,,,28926,4000
+2013Q03,Cost of Sales,Water Jug,,,192.84,180000
+2013Q03,EXPENSES,Adminstrative,Depreciation,,7.5e+07,
+2013Q03,EXPENSES,Adminstrative,Insurance,,16250000,
+2013Q03,EXPENSES,Adminstrative,Meals and entertainment,,375000,
+2013Q03,EXPENSES,Adminstrative,Outside services,,18750000,
+2013Q03,EXPENSES,Adminstrative,Rent,,125000,
+2013Q03,EXPENSES,Adminstrative,Repairs and maintence,,1e+07,
+2013Q03,EXPENSES,Adminstrative,Supplies,,5e+05,
+2013Q03,EXPENSES,Adminstrative,Telephone,,12500000,
+2013Q03,EXPENSES,Adminstrative,Utilities,,23750000,
+2013Q03,EXPENSES,Adminstrative,Wages and salaries,,37500000,
+2013Q03,EXPENSES,Adminstrative,Web site consultancy,,5e+05,
+2013Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,250000,
+2013Q03,EXPENSES,Adminstrative,Web site maintence,,5000,
+2013Q03,EXPENSES,Development,Patents,,75000,
+2013Q03,EXPENSES,Development,Technology Rental,,375000,
+2013Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,3e+05,
+2013Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,3e+07,
+2013Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,5e+05,
+2013Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,37500,
+2013Q03,Non-Operation Income,Gifts and Dotions,,,25000,
+2013Q03,Non-Operation Income,Interest,,,75000,
+2013Q03,Non-Operation Income,Other Income,,,875,
+2013Q03,Non-Operation Income,Rental,,,1e+06,
+2013Q03,Sales Revenue,Hot Blanket,,,13004,20000
+2013Q03,Sales Revenue,Kitty Box,,,48765,30000
+2013Q03,Sales Revenue,Maxi Dog,,,65020,20000
+2013Q03,Sales Revenue,Muis Huis,,,195060,5000
+2013Q03,Sales Revenue,Water Jug,,,325.1,2e+05
+2013Q02,Cost of Sales,Hot Blanket,,,1185.6,12000
+2013Q02,Cost of Sales,Kitty Box,,,7904,30000
+2013Q02,Cost of Sales,Maxi Dog,,,13832,15000
+2013Q02,Cost of Sales,Muis Huis,,,11856,4000
+2013Q02,Cost of Sales,Water Jug,,,79.04,180000
+2013Q02,EXPENSES,Adminstrative,Depreciation,,3e+07,
+2013Q02,EXPENSES,Adminstrative,Insurance,,6500000,
+2013Q02,EXPENSES,Adminstrative,Meals and entertainment,,150000,
+2013Q02,EXPENSES,Adminstrative,Outside services,,7500000,
+2013Q02,EXPENSES,Adminstrative,Rent,,50000,
+2013Q02,EXPENSES,Adminstrative,Repairs and maintence,,4e+06,
+2013Q02,EXPENSES,Adminstrative,Supplies,,2e+05,
+2013Q02,EXPENSES,Adminstrative,Telephone,,5e+06,
+2013Q02,EXPENSES,Adminstrative,Utilities,,9500000,
+2013Q02,EXPENSES,Adminstrative,Wages and salaries,,1.5e+07,
+2013Q02,EXPENSES,Adminstrative,Web site consultancy,,2e+05,
+2013Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,1e+05,
+2013Q02,EXPENSES,Adminstrative,Web site maintence,,2000,
+2013Q02,EXPENSES,Development,Patents,,30000,
+2013Q02,EXPENSES,Development,Technology Rental,,150000,
+2013Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,120000,
+2013Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,1.2e+07,
+2013Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,2e+05,
+2013Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,15000,
+2013Q02,Non-Operation Income,Gifts and Dotions,,,10000,
+2013Q02,Non-Operation Income,Interest,,,30000,
+2013Q02,Non-Operation Income,Other Income,,,350,
+2013Q02,Non-Operation Income,Rental,,,4e+05,
+2013Q02,Sales Revenue,Hot Blanket,,,25716,20000
+2013Q02,Sales Revenue,Kitty Box,,,96435,30000
+2013Q02,Sales Revenue,Maxi Dog,,,128580,20000
+2013Q02,Sales Revenue,Muis Huis,,,385740,5000
+2013Q02,Sales Revenue,Water Jug,,,642.9,2e+05
+2013Q01,Cost of Sales,Hot Blanket,,,83.1,12000
+2013Q01,Cost of Sales,Kitty Box,,,554,30000
+2013Q01,Cost of Sales,Maxi Dog,,,969.5,15000
+2013Q01,Cost of Sales,Muis Huis,,,831,4000
+2013Q01,Cost of Sales,Water Jug,,,5.54,180000
+2013Q01,EXPENSES,Adminstrative,Depreciation,,9e+06,
+2013Q01,EXPENSES,Adminstrative,Insurance,,1950000,
+2013Q01,EXPENSES,Adminstrative,Meals and entertainment,,45000,
+2013Q01,EXPENSES,Adminstrative,Outside services,,2250000,
+2013Q01,EXPENSES,Adminstrative,Rent,,15000,
+2013Q01,EXPENSES,Adminstrative,Repairs and maintence,,1200000,
+2013Q01,EXPENSES,Adminstrative,Supplies,,60000,
+2013Q01,EXPENSES,Adminstrative,Telephone,,1500000,
+2013Q01,EXPENSES,Adminstrative,Utilities,,2850000,
+2013Q01,EXPENSES,Adminstrative,Wages and salaries,,4500000,
+2013Q01,EXPENSES,Adminstrative,Web site consultancy,,60000,
+2013Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,30000,
+2013Q01,EXPENSES,Adminstrative,Web site maintence,,600,
+2013Q01,EXPENSES,Development,Patents,,9000,
+2013Q01,EXPENSES,Development,Technology Rental,,45000,
+2013Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,36000,
+2013Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,3600000,
+2013Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,60000,
+2013Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,4500,
+2013Q01,Non-Operation Income,Gifts and Dotions,,,3000,
+2013Q01,Non-Operation Income,Interest,,,9000,
+2013Q01,Non-Operation Income,Other Income,,,105,
+2013Q01,Non-Operation Income,Rental,,,120000,
+2013Q01,Sales Revenue,Hot Blanket,,,22728,20000
+2013Q01,Sales Revenue,Kitty Box,,,85230,30000
+2013Q01,Sales Revenue,Maxi Dog,,,113640,20000
+2013Q01,Sales Revenue,Muis Huis,,,340920,5000
+2013Q01,Sales Revenue,Water Jug,,,568.2,2e+05
+2012Q04,Cost of Sales,Hot Blanket,,,1397.4,12000
+2012Q04,Cost of Sales,Kitty Box,,,9316,30000
+2012Q04,Cost of Sales,Maxi Dog,,,16303,15000
+2012Q04,Cost of Sales,Muis Huis,,,13974,4000
+2012Q04,Cost of Sales,Water Jug,,,93.16,180000
+2012Q04,EXPENSES,Adminstrative,Depreciation,,2.1e+07,
+2012Q04,EXPENSES,Adminstrative,Insurance,,4550000,
+2012Q04,EXPENSES,Adminstrative,Meals and entertainment,,105000,
+2012Q04,EXPENSES,Adminstrative,Outside services,,5250000,
+2012Q04,EXPENSES,Adminstrative,Rent,,35000,
+2012Q04,EXPENSES,Adminstrative,Repairs and maintence,,2800000,
+2012Q04,EXPENSES,Adminstrative,Supplies,,140000,
+2012Q04,EXPENSES,Adminstrative,Telephone,,3500000,
+2012Q04,EXPENSES,Adminstrative,Utilities,,6650000,
+2012Q04,EXPENSES,Adminstrative,Wages and salaries,,10500000,
+2012Q04,EXPENSES,Adminstrative,Web site consultancy,,140000,
+2012Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,70000,
+2012Q04,EXPENSES,Adminstrative,Web site maintence,,1400,
+2012Q04,EXPENSES,Development,Patents,,21000,
+2012Q04,EXPENSES,Development,Technology Rental,,105000,
+2012Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,84000,
+2012Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,8400000,
+2012Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,140000,
+2012Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,10500,
+2012Q04,Non-Operation Income,Gifts and Dotions,,,7000,
+2012Q04,Non-Operation Income,Interest,,,21000,
+2012Q04,Non-Operation Income,Other Income,,,245,
+2012Q04,Non-Operation Income,Rental,,,280000,
+2012Q04,Sales Revenue,Hot Blanket,,,20202,20000
+2012Q04,Sales Revenue,Kitty Box,,,75757.5,30000
+2012Q04,Sales Revenue,Maxi Dog,,,101010,20000
+2012Q04,Sales Revenue,Muis Huis,,,303030,5000
+2012Q04,Sales Revenue,Water Jug,,,505.05,2e+05
+2012Q03,Cost of Sales,Hot Blanket,,,1234.2,12000
+2012Q03,Cost of Sales,Kitty Box,,,8228,30000
+2012Q03,Cost of Sales,Maxi Dog,,,14399,15000
+2012Q03,Cost of Sales,Muis Huis,,,12342,4000
+2012Q03,Cost of Sales,Water Jug,,,82.28,180000
+2012Q03,EXPENSES,Adminstrative,Depreciation,,4.8e+07,
+2012Q03,EXPENSES,Adminstrative,Insurance,,10400000,
+2012Q03,EXPENSES,Adminstrative,Meals and entertainment,,240000,
+2012Q03,EXPENSES,Adminstrative,Outside services,,1.2e+07,
+2012Q03,EXPENSES,Adminstrative,Rent,,80000,
+2012Q03,EXPENSES,Adminstrative,Repairs and maintence,,6400000,
+2012Q03,EXPENSES,Adminstrative,Supplies,,320000,
+2012Q03,EXPENSES,Adminstrative,Telephone,,8e+06,
+2012Q03,EXPENSES,Adminstrative,Utilities,,15200000,
+2012Q03,EXPENSES,Adminstrative,Wages and salaries,,2.4e+07,
+2012Q03,EXPENSES,Adminstrative,Web site consultancy,,320000,
+2012Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,160000,
+2012Q03,EXPENSES,Adminstrative,Web site maintence,,3200,
+2012Q03,EXPENSES,Development,Patents,,48000,
+2012Q03,EXPENSES,Development,Technology Rental,,240000,
+2012Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,192000,
+2012Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,19200000,
+2012Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,320000,
+2012Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,24000,
+2012Q03,Non-Operation Income,Gifts and Dotions,,,16000,
+2012Q03,Non-Operation Income,Interest,,,48000,
+2012Q03,Non-Operation Income,Other Income,,,560,
+2012Q03,Non-Operation Income,Rental,,,640000,
+2012Q03,Sales Revenue,Hot Blanket,,,16266,20000
+2012Q03,Sales Revenue,Kitty Box,,,60997.5,30000
+2012Q03,Sales Revenue,Maxi Dog,,,81330,20000
+2012Q03,Sales Revenue,Muis Huis,,,243990,5000
+2012Q03,Sales Revenue,Water Jug,,,406.65,2e+05
+2012Q02,Cost of Sales,Hot Blanket,,,2172.9,12000
+2012Q02,Cost of Sales,Kitty Box,,,14486,30000
+2012Q02,Cost of Sales,Maxi Dog,,,25350.5,15000
+2012Q02,Cost of Sales,Muis Huis,,,21729,4000
+2012Q02,Cost of Sales,Water Jug,,,144.86,180000
+2012Q02,EXPENSES,Adminstrative,Depreciation,,1.02e+08,
+2012Q02,EXPENSES,Adminstrative,Insurance,,22100000,
+2012Q02,EXPENSES,Adminstrative,Meals and entertainment,,510000,
+2012Q02,EXPENSES,Adminstrative,Outside services,,25500000,
+2012Q02,EXPENSES,Adminstrative,Rent,,170000,
+2012Q02,EXPENSES,Adminstrative,Repairs and maintence,,13600000,
+2012Q02,EXPENSES,Adminstrative,Supplies,,680000,
+2012Q02,EXPENSES,Adminstrative,Telephone,,1.7e+07,
+2012Q02,EXPENSES,Adminstrative,Utilities,,32300000,
+2012Q02,EXPENSES,Adminstrative,Wages and salaries,,5.1e+07,
+2012Q02,EXPENSES,Adminstrative,Web site consultancy,,680000,
+2012Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,340000,
+2012Q02,EXPENSES,Adminstrative,Web site maintence,,6800,
+2012Q02,EXPENSES,Development,Patents,,102000,
+2012Q02,EXPENSES,Development,Technology Rental,,510000,
+2012Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,408000,
+2012Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,40800000,
+2012Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,680000,
+2012Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,51000,
+2012Q02,Non-Operation Income,Gifts and Dotions,,,34000,
+2012Q02,Non-Operation Income,Interest,,,102000,
+2012Q02,Non-Operation Income,Other Income,,,1190,
+2012Q02,Non-Operation Income,Rental,,,1360000,
+2012Q02,Sales Revenue,Hot Blanket,,,5716,20000
+2012Q02,Sales Revenue,Kitty Box,,,21435,30000
+2012Q02,Sales Revenue,Maxi Dog,,,28580,20000
+2012Q02,Sales Revenue,Muis Huis,,,85740,5000
+2012Q02,Sales Revenue,Water Jug,,,142.9,2e+05
+2012Q01,Cost of Sales,Hot Blanket,,,318,12000
+2012Q01,Cost of Sales,Kitty Box,,,2120,30000
+2012Q01,Cost of Sales,Maxi Dog,,,3710,15000
+2012Q01,Cost of Sales,Muis Huis,,,3180,4000
+2012Q01,Cost of Sales,Water Jug,,,21.2,180000
+2012Q01,EXPENSES,Adminstrative,Depreciation,,1.47e+08,
+2012Q01,EXPENSES,Adminstrative,Insurance,,31850000,
+2012Q01,EXPENSES,Adminstrative,Meals and entertainment,,735000,
+2012Q01,EXPENSES,Adminstrative,Outside services,,36750000,
+2012Q01,EXPENSES,Adminstrative,Rent,,245000,
+2012Q01,EXPENSES,Adminstrative,Repairs and maintence,,19600000,
+2012Q01,EXPENSES,Adminstrative,Supplies,,980000,
+2012Q01,EXPENSES,Adminstrative,Telephone,,24500000,
+2012Q01,EXPENSES,Adminstrative,Utilities,,46550000,
+2012Q01,EXPENSES,Adminstrative,Wages and salaries,,73500000,
+2012Q01,EXPENSES,Adminstrative,Web site consultancy,,980000,
+2012Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,490000,
+2012Q01,EXPENSES,Adminstrative,Web site maintence,,9800,
+2012Q01,EXPENSES,Development,Patents,,147000,
+2012Q01,EXPENSES,Development,Technology Rental,,735000,
+2012Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,588000,
+2012Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,58800000,
+2012Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,980000,
+2012Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,73500,
+2012Q01,Non-Operation Income,Gifts and Dotions,,,49000,
+2012Q01,Non-Operation Income,Interest,,,147000,
+2012Q01,Non-Operation Income,Other Income,,,1715,
+2012Q01,Non-Operation Income,Rental,,,1960000,
+2012Q01,Sales Revenue,Hot Blanket,,,38756,20000
+2012Q01,Sales Revenue,Kitty Box,,,145335,30000
+2012Q01,Sales Revenue,Maxi Dog,,,193780,20000
+2012Q01,Sales Revenue,Muis Huis,,,581340,5000
+2012Q01,Sales Revenue,Water Jug,,,968.9,2e+05
+2011Q04,Cost of Sales,Hot Blanket,,,954.3,12000
+2011Q04,Cost of Sales,Kitty Box,,,6362,30000
+2011Q04,Cost of Sales,Maxi Dog,,,11133.5,15000
+2011Q04,Cost of Sales,Muis Huis,,,9543,4000
+2011Q04,Cost of Sales,Water Jug,,,63.62,180000
+2011Q04,EXPENSES,Adminstrative,Depreciation,,3e+07,
+2011Q04,EXPENSES,Adminstrative,Insurance,,6500000,
+2011Q04,EXPENSES,Adminstrative,Meals and entertainment,,150000,
+2011Q04,EXPENSES,Adminstrative,Outside services,,7500000,
+2011Q04,EXPENSES,Adminstrative,Rent,,50000,
+2011Q04,EXPENSES,Adminstrative,Repairs and maintence,,4e+06,
+2011Q04,EXPENSES,Adminstrative,Supplies,,2e+05,
+2011Q04,EXPENSES,Adminstrative,Telephone,,5e+06,
+2011Q04,EXPENSES,Adminstrative,Utilities,,9500000,
+2011Q04,EXPENSES,Adminstrative,Wages and salaries,,1.5e+07,
+2011Q04,EXPENSES,Adminstrative,Web site consultancy,,2e+05,
+2011Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,1e+05,
+2011Q04,EXPENSES,Adminstrative,Web site maintence,,2000,
+2011Q04,EXPENSES,Development,Patents,,30000,
+2011Q04,EXPENSES,Development,Technology Rental,,150000,
+2011Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,120000,
+2011Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,1.2e+07,
+2011Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,2e+05,
+2011Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,15000,
+2011Q04,Non-Operation Income,Gifts and Dotions,,,10000,
+2011Q04,Non-Operation Income,Interest,,,30000,
+2011Q04,Non-Operation Income,Other Income,,,350,
+2011Q04,Non-Operation Income,Rental,,,4e+05,
+2011Q04,Sales Revenue,Hot Blanket,,,23728,20000
+2011Q04,Sales Revenue,Kitty Box,,,88980,30000
+2011Q04,Sales Revenue,Maxi Dog,,,118640,20000
+2011Q04,Sales Revenue,Muis Huis,,,355920,5000
+2011Q04,Sales Revenue,Water Jug,,,593.2,2e+05
+2011Q03,Cost of Sales,Hot Blanket,,,2817.6,12000
+2011Q03,Cost of Sales,Kitty Box,,,18784,30000
+2011Q03,Cost of Sales,Maxi Dog,,,32872,15000
+2011Q03,Cost of Sales,Muis Huis,,,28176,4000
+2011Q03,Cost of Sales,Water Jug,,,187.84,180000
+2011Q03,EXPENSES,Adminstrative,Depreciation,,3e+06,
+2011Q03,EXPENSES,Adminstrative,Insurance,,650000,
+2011Q03,EXPENSES,Adminstrative,Meals and entertainment,,15000,
+2011Q03,EXPENSES,Adminstrative,Outside services,,750000,
+2011Q03,EXPENSES,Adminstrative,Rent,,5000,
+2011Q03,EXPENSES,Adminstrative,Repairs and maintence,,4e+05,
+2011Q03,EXPENSES,Adminstrative,Supplies,,20000,
+2011Q03,EXPENSES,Adminstrative,Telephone,,5e+05,
+2011Q03,EXPENSES,Adminstrative,Utilities,,950000,
+2011Q03,EXPENSES,Adminstrative,Wages and salaries,,1500000,
+2011Q03,EXPENSES,Adminstrative,Web site consultancy,,20000,
+2011Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,10000,
+2011Q03,EXPENSES,Adminstrative,Web site maintence,,200,
+2011Q03,EXPENSES,Development,Patents,,3000,
+2011Q03,EXPENSES,Development,Technology Rental,,15000,
+2011Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,12000,
+2011Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,1200000,
+2011Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,20000,
+2011Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,1500,
+2011Q03,Non-Operation Income,Gifts and Dotions,,,1000,
+2011Q03,Non-Operation Income,Interest,,,3000,
+2011Q03,Non-Operation Income,Other Income,,,35,
+2011Q03,Non-Operation Income,Rental,,,40000,
+2011Q03,Sales Revenue,Hot Blanket,,,19328,20000
+2011Q03,Sales Revenue,Kitty Box,,,72480,30000
+2011Q03,Sales Revenue,Maxi Dog,,,96640,20000
+2011Q03,Sales Revenue,Muis Huis,,,289920,5000
+2011Q03,Sales Revenue,Water Jug,,,483.2,2e+05
+2011Q02,Cost of Sales,Hot Blanket,,,607.2,12000
+2011Q02,Cost of Sales,Kitty Box,,,4048,30000
+2011Q02,Cost of Sales,Maxi Dog,,,7084,15000
+2011Q02,Cost of Sales,Muis Huis,,,6072,4000
+2011Q02,Cost of Sales,Water Jug,,,40.48,180000
+2011Q02,EXPENSES,Adminstrative,Depreciation,,1.35e+08,
+2011Q02,EXPENSES,Adminstrative,Insurance,,29250000,
+2011Q02,EXPENSES,Adminstrative,Meals and entertainment,,675000,
+2011Q02,EXPENSES,Adminstrative,Outside services,,33750000,
+2011Q02,EXPENSES,Adminstrative,Rent,,225000,
+2011Q02,EXPENSES,Adminstrative,Repairs and maintence,,1.8e+07,
+2011Q02,EXPENSES,Adminstrative,Supplies,,9e+05,
+2011Q02,EXPENSES,Adminstrative,Telephone,,22500000,
+2011Q02,EXPENSES,Adminstrative,Utilities,,42750000,
+2011Q02,EXPENSES,Adminstrative,Wages and salaries,,67500000,
+2011Q02,EXPENSES,Adminstrative,Web site consultancy,,9e+05,
+2011Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,450000,
+2011Q02,EXPENSES,Adminstrative,Web site maintence,,9000,
+2011Q02,EXPENSES,Development,Patents,,135000,
+2011Q02,EXPENSES,Development,Technology Rental,,675000,
+2011Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,540000,
+2011Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,5.4e+07,
+2011Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,9e+05,
+2011Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,67500,
+2011Q02,Non-Operation Income,Gifts and Dotions,,,45000,
+2011Q02,Non-Operation Income,Interest,,,135000,
+2011Q02,Non-Operation Income,Other Income,,,1575,
+2011Q02,Non-Operation Income,Rental,,,1800000,
+2011Q02,Sales Revenue,Hot Blanket,,,6604,20000
+2011Q02,Sales Revenue,Kitty Box,,,24765,30000
+2011Q02,Sales Revenue,Maxi Dog,,,33020,20000
+2011Q02,Sales Revenue,Muis Huis,,,99060,5000
+2011Q02,Sales Revenue,Water Jug,,,165.1,2e+05
+2011Q01,Cost of Sales,Hot Blanket,,,1089,12000
+2011Q01,Cost of Sales,Kitty Box,,,7260,30000
+2011Q01,Cost of Sales,Maxi Dog,,,12705,15000
+2011Q01,Cost of Sales,Muis Huis,,,10890,4000
+2011Q01,Cost of Sales,Water Jug,,,72.6,180000
+2011Q01,EXPENSES,Adminstrative,Depreciation,,1.5e+07,
+2011Q01,EXPENSES,Adminstrative,Insurance,,3250000,
+2011Q01,EXPENSES,Adminstrative,Meals and entertainment,,75000,
+2011Q01,EXPENSES,Adminstrative,Outside services,,3750000,
+2011Q01,EXPENSES,Adminstrative,Rent,,25000,
+2011Q01,EXPENSES,Adminstrative,Repairs and maintence,,2e+06,
+2011Q01,EXPENSES,Adminstrative,Supplies,,1e+05,
+2011Q01,EXPENSES,Adminstrative,Telephone,,2500000,
+2011Q01,EXPENSES,Adminstrative,Utilities,,4750000,
+2011Q01,EXPENSES,Adminstrative,Wages and salaries,,7500000,
+2011Q01,EXPENSES,Adminstrative,Web site consultancy,,1e+05,
+2011Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,50000,
+2011Q01,EXPENSES,Adminstrative,Web site maintence,,1000,
+2011Q01,EXPENSES,Development,Patents,,15000,
+2011Q01,EXPENSES,Development,Technology Rental,,75000,
+2011Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,60000,
+2011Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,6e+06,
+2011Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,1e+05,
+2011Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,7500,
+2011Q01,Non-Operation Income,Gifts and Dotions,,,5000,
+2011Q01,Non-Operation Income,Interest,,,15000,
+2011Q01,Non-Operation Income,Other Income,,,175,
+2011Q01,Non-Operation Income,Rental,,,2e+05,
+2011Q01,Sales Revenue,Hot Blanket,,,3356,20000
+2011Q01,Sales Revenue,Kitty Box,,,12585,30000
+2011Q01,Sales Revenue,Maxi Dog,,,16780,20000
+2011Q01,Sales Revenue,Muis Huis,,,50340,5000
+2011Q01,Sales Revenue,Water Jug,,,83.9,2e+05
+2010Q04,Cost of Sales,Hot Blanket,,,347.1,12000
+2010Q04,Cost of Sales,Kitty Box,,,2314,30000
+2010Q04,Cost of Sales,Maxi Dog,,,4049.5,15000
+2010Q04,Cost of Sales,Muis Huis,,,3471,4000
+2010Q04,Cost of Sales,Water Jug,,,23.14,180000
+2010Q04,EXPENSES,Adminstrative,Depreciation,,2.7e+07,
+2010Q04,EXPENSES,Adminstrative,Insurance,,5850000,
+2010Q04,EXPENSES,Adminstrative,Meals and entertainment,,135000,
+2010Q04,EXPENSES,Adminstrative,Outside services,,6750000,
+2010Q04,EXPENSES,Adminstrative,Rent,,45000,
+2010Q04,EXPENSES,Adminstrative,Repairs and maintence,,3600000,
+2010Q04,EXPENSES,Adminstrative,Supplies,,180000,
+2010Q04,EXPENSES,Adminstrative,Telephone,,4500000,
+2010Q04,EXPENSES,Adminstrative,Utilities,,8550000,
+2010Q04,EXPENSES,Adminstrative,Wages and salaries,,13500000,
+2010Q04,EXPENSES,Adminstrative,Web site consultancy,,180000,
+2010Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,90000,
+2010Q04,EXPENSES,Adminstrative,Web site maintence,,1800,
+2010Q04,EXPENSES,Development,Patents,,27000,
+2010Q04,EXPENSES,Development,Technology Rental,,135000,
+2010Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,108000,
+2010Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,10800000,
+2010Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,180000,
+2010Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,13500,
+2010Q04,Non-Operation Income,Gifts and Dotions,,,9000,
+2010Q04,Non-Operation Income,Interest,,,27000,
+2010Q04,Non-Operation Income,Other Income,,,315,
+2010Q04,Non-Operation Income,Rental,,,360000,
+2010Q04,Sales Revenue,Hot Blanket,,,37606,20000
+2010Q04,Sales Revenue,Kitty Box,,,141022.5,30000
+2010Q04,Sales Revenue,Maxi Dog,,,188030,20000
+2010Q04,Sales Revenue,Muis Huis,,,564090,5000
+2010Q04,Sales Revenue,Water Jug,,,940.15,2e+05
+2010Q03,Cost of Sales,Hot Blanket,,,576,12000
+2010Q03,Cost of Sales,Kitty Box,,,3840,30000
+2010Q03,Cost of Sales,Maxi Dog,,,6720,15000
+2010Q03,Cost of Sales,Muis Huis,,,5760,4000
+2010Q03,Cost of Sales,Water Jug,,,38.4,180000
+2010Q03,EXPENSES,Adminstrative,Depreciation,,7.5e+07,
+2010Q03,EXPENSES,Adminstrative,Insurance,,16250000,
+2010Q03,EXPENSES,Adminstrative,Meals and entertainment,,375000,
+2010Q03,EXPENSES,Adminstrative,Outside services,,18750000,
+2010Q03,EXPENSES,Adminstrative,Rent,,125000,
+2010Q03,EXPENSES,Adminstrative,Repairs and maintence,,1e+07,
+2010Q03,EXPENSES,Adminstrative,Supplies,,5e+05,
+2010Q03,EXPENSES,Adminstrative,Telephone,,12500000,
+2010Q03,EXPENSES,Adminstrative,Utilities,,23750000,
+2010Q03,EXPENSES,Adminstrative,Wages and salaries,,37500000,
+2010Q03,EXPENSES,Adminstrative,Web site consultancy,,5e+05,
+2010Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,250000,
+2010Q03,EXPENSES,Adminstrative,Web site maintence,,5000,
+2010Q03,EXPENSES,Development,Patents,,75000,
+2010Q03,EXPENSES,Development,Technology Rental,,375000,
+2010Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,3e+05,
+2010Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,3e+07,
+2010Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,5e+05,
+2010Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,37500,
+2010Q03,Non-Operation Income,Gifts and Dotions,,,25000,
+2010Q03,Non-Operation Income,Interest,,,75000,
+2010Q03,Non-Operation Income,Other Income,,,875,
+2010Q03,Non-Operation Income,Rental,,,1e+06,
+2010Q03,Sales Revenue,Hot Blanket,,,35450,20000
+2010Q03,Sales Revenue,Kitty Box,,,132937.5,30000
+2010Q03,Sales Revenue,Maxi Dog,,,177250,20000
+2010Q03,Sales Revenue,Muis Huis,,,531750,5000
+2010Q03,Sales Revenue,Water Jug,,,886.25,2e+05
+2010Q02,Cost of Sales,Hot Blanket,,,2574.3,12000
+2010Q02,Cost of Sales,Kitty Box,,,17162,30000
+2010Q02,Cost of Sales,Maxi Dog,,,30033.5,15000
+2010Q02,Cost of Sales,Muis Huis,,,25743,4000
+2010Q02,Cost of Sales,Water Jug,,,171.62,180000
+2010Q02,EXPENSES,Adminstrative,Depreciation,,1.47e+08,
+2010Q02,EXPENSES,Adminstrative,Insurance,,31850000,
+2010Q02,EXPENSES,Adminstrative,Meals and entertainment,,735000,
+2010Q02,EXPENSES,Adminstrative,Outside services,,36750000,
+2010Q02,EXPENSES,Adminstrative,Rent,,245000,
+2010Q02,EXPENSES,Adminstrative,Repairs and maintence,,19600000,
+2010Q02,EXPENSES,Adminstrative,Supplies,,980000,
+2010Q02,EXPENSES,Adminstrative,Telephone,,24500000,
+2010Q02,EXPENSES,Adminstrative,Utilities,,46550000,
+2010Q02,EXPENSES,Adminstrative,Wages and salaries,,73500000,
+2010Q02,EXPENSES,Adminstrative,Web site consultancy,,980000,
+2010Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,490000,
+2010Q02,EXPENSES,Adminstrative,Web site maintence,,9800,
+2010Q02,EXPENSES,Development,Patents,,147000,
+2010Q02,EXPENSES,Development,Technology Rental,,735000,
+2010Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,588000,
+2010Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,58800000,
+2010Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,980000,
+2010Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,73500,
+2010Q02,Non-Operation Income,Gifts and Dotions,,,49000,
+2010Q02,Non-Operation Income,Interest,,,147000,
+2010Q02,Non-Operation Income,Other Income,,,1715,
+2010Q02,Non-Operation Income,Rental,,,1960000,
+2010Q02,Sales Revenue,Hot Blanket,,,28418,20000
+2010Q02,Sales Revenue,Kitty Box,,,106567.5,30000
+2010Q02,Sales Revenue,Maxi Dog,,,142090,20000
+2010Q02,Sales Revenue,Muis Huis,,,426270,5000
+2010Q02,Sales Revenue,Water Jug,,,710.45,2e+05
+2010Q01,Cost of Sales,Hot Blanket,,,1371.3,12000
+2010Q01,Cost of Sales,Kitty Box,,,9142,30000
+2010Q01,Cost of Sales,Maxi Dog,,,15998.5,15000
+2010Q01,Cost of Sales,Muis Huis,,,13713,4000
+2010Q01,Cost of Sales,Water Jug,,,91.42,180000
+2010Q01,EXPENSES,Adminstrative,Depreciation,,6e+07,
+2010Q01,EXPENSES,Adminstrative,Insurance,,1.3e+07,
+2010Q01,EXPENSES,Adminstrative,Meals and entertainment,,3e+05,
+2010Q01,EXPENSES,Adminstrative,Outside services,,1.5e+07,
+2010Q01,EXPENSES,Adminstrative,Rent,,1e+05,
+2010Q01,EXPENSES,Adminstrative,Repairs and maintence,,8e+06,
+2010Q01,EXPENSES,Adminstrative,Supplies,,4e+05,
+2010Q01,EXPENSES,Adminstrative,Telephone,,1e+07,
+2010Q01,EXPENSES,Adminstrative,Utilities,,1.9e+07,
+2010Q01,EXPENSES,Adminstrative,Wages and salaries,,3e+07,
+2010Q01,EXPENSES,Adminstrative,Web site consultancy,,4e+05,
+2010Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,2e+05,
+2010Q01,EXPENSES,Adminstrative,Web site maintence,,4000,
+2010Q01,EXPENSES,Development,Patents,,60000,
+2010Q01,EXPENSES,Development,Technology Rental,,3e+05,
+2010Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,240000,
+2010Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,2.4e+07,
+2010Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,4e+05,
+2010Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,30000,
+2010Q01,Non-Operation Income,Gifts and Dotions,,,20000,
+2010Q01,Non-Operation Income,Interest,,,60000,
+2010Q01,Non-Operation Income,Other Income,,,700,
+2010Q01,Non-Operation Income,Rental,,,8e+05,
+2010Q01,Sales Revenue,Hot Blanket,,,17712,20000
+2010Q01,Sales Revenue,Kitty Box,,,66420,30000
+2010Q01,Sales Revenue,Maxi Dog,,,88560,20000
+2010Q01,Sales Revenue,Muis Huis,,,265680,5000
+2010Q01,Sales Revenue,Water Jug,,,442.8,2e+05
+2009Q04,Cost of Sales,Hot Blanket,,,1771.8,12000
+2009Q04,Cost of Sales,Kitty Box,,,11812,30000
+2009Q04,Cost of Sales,Maxi Dog,,,20671,15000
+2009Q04,Cost of Sales,Muis Huis,,,17718,4000
+2009Q04,Cost of Sales,Water Jug,,,118.12,180000
+2009Q04,EXPENSES,Adminstrative,Depreciation,,1.44e+08,
+2009Q04,EXPENSES,Adminstrative,Insurance,,31200000,
+2009Q04,EXPENSES,Adminstrative,Meals and entertainment,,720000,
+2009Q04,EXPENSES,Adminstrative,Outside services,,3.6e+07,
+2009Q04,EXPENSES,Adminstrative,Rent,,240000,
+2009Q04,EXPENSES,Adminstrative,Repairs and maintence,,19200000,
+2009Q04,EXPENSES,Adminstrative,Supplies,,960000,
+2009Q04,EXPENSES,Adminstrative,Telephone,,2.4e+07,
+2009Q04,EXPENSES,Adminstrative,Utilities,,45600000,
+2009Q04,EXPENSES,Adminstrative,Wages and salaries,,7.2e+07,
+2009Q04,EXPENSES,Adminstrative,Web site consultancy,,960000,
+2009Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,480000,
+2009Q04,EXPENSES,Adminstrative,Web site maintence,,9600,
+2009Q04,EXPENSES,Development,Patents,,144000,
+2009Q04,EXPENSES,Development,Technology Rental,,720000,
+2009Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,576000,
+2009Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,57600000,
+2009Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,960000,
+2009Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,72000,
+2009Q04,Non-Operation Income,Gifts and Dotions,,,48000,
+2009Q04,Non-Operation Income,Interest,,,144000,
+2009Q04,Non-Operation Income,Other Income,,,1680,
+2009Q04,Non-Operation Income,Rental,,,1920000,
+2009Q04,Sales Revenue,Hot Blanket,,,1504,20000
+2009Q04,Sales Revenue,Kitty Box,,,5640,30000
+2009Q04,Sales Revenue,Maxi Dog,,,7520,20000
+2009Q04,Sales Revenue,Muis Huis,,,22560,5000
+2009Q04,Sales Revenue,Water Jug,,,37.6,2e+05
+2009Q03,Cost of Sales,Hot Blanket,,,1449.9,12000
+2009Q03,Cost of Sales,Kitty Box,,,9666,30000
+2009Q03,Cost of Sales,Maxi Dog,,,16915.5,15000
+2009Q03,Cost of Sales,Muis Huis,,,14499,4000
+2009Q03,Cost of Sales,Water Jug,,,96.66,180000
+2009Q03,EXPENSES,Adminstrative,Depreciation,,1.08e+08,
+2009Q03,EXPENSES,Adminstrative,Insurance,,23400000,
+2009Q03,EXPENSES,Adminstrative,Meals and entertainment,,540000,
+2009Q03,EXPENSES,Adminstrative,Outside services,,2.7e+07,
+2009Q03,EXPENSES,Adminstrative,Rent,,180000,
+2009Q03,EXPENSES,Adminstrative,Repairs and maintence,,14400000,
+2009Q03,EXPENSES,Adminstrative,Supplies,,720000,
+2009Q03,EXPENSES,Adminstrative,Telephone,,1.8e+07,
+2009Q03,EXPENSES,Adminstrative,Utilities,,34200000,
+2009Q03,EXPENSES,Adminstrative,Wages and salaries,,5.4e+07,
+2009Q03,EXPENSES,Adminstrative,Web site consultancy,,720000,
+2009Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,360000,
+2009Q03,EXPENSES,Adminstrative,Web site maintence,,7200,
+2009Q03,EXPENSES,Development,Patents,,108000,
+2009Q03,EXPENSES,Development,Technology Rental,,540000,
+2009Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,432000,
+2009Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,43200000,
+2009Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,720000,
+2009Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,54000,
+2009Q03,Non-Operation Income,Gifts and Dotions,,,36000,
+2009Q03,Non-Operation Income,Interest,,,108000,
+2009Q03,Non-Operation Income,Other Income,,,1260,
+2009Q03,Non-Operation Income,Rental,,,1440000,
+2009Q03,Sales Revenue,Hot Blanket,,,37364,20000
+2009Q03,Sales Revenue,Kitty Box,,,140115,30000
+2009Q03,Sales Revenue,Maxi Dog,,,186820,20000
+2009Q03,Sales Revenue,Muis Huis,,,560460,5000
+2009Q03,Sales Revenue,Water Jug,,,934.1,2e+05
+2009Q02,Cost of Sales,Hot Blanket,,,252.3,12000
+2009Q02,Cost of Sales,Kitty Box,,,1682,30000
+2009Q02,Cost of Sales,Maxi Dog,,,2943.5,15000
+2009Q02,Cost of Sales,Muis Huis,,,2523,4000
+2009Q02,Cost of Sales,Water Jug,,,16.82,180000
+2009Q02,EXPENSES,Adminstrative,Depreciation,,1.05e+08,
+2009Q02,EXPENSES,Adminstrative,Insurance,,22750000,
+2009Q02,EXPENSES,Adminstrative,Meals and entertainment,,525000,
+2009Q02,EXPENSES,Adminstrative,Outside services,,26250000,
+2009Q02,EXPENSES,Adminstrative,Rent,,175000,
+2009Q02,EXPENSES,Adminstrative,Repairs and maintence,,1.4e+07,
+2009Q02,EXPENSES,Adminstrative,Supplies,,7e+05,
+2009Q02,EXPENSES,Adminstrative,Telephone,,17500000,
+2009Q02,EXPENSES,Adminstrative,Utilities,,33250000,
+2009Q02,EXPENSES,Adminstrative,Wages and salaries,,52500000,
+2009Q02,EXPENSES,Adminstrative,Web site consultancy,,7e+05,
+2009Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,350000,
+2009Q02,EXPENSES,Adminstrative,Web site maintence,,7000,
+2009Q02,EXPENSES,Development,Patents,,105000,
+2009Q02,EXPENSES,Development,Technology Rental,,525000,
+2009Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,420000,
+2009Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,4.2e+07,
+2009Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,7e+05,
+2009Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,52500,
+2009Q02,Non-Operation Income,Gifts and Dotions,,,35000,
+2009Q02,Non-Operation Income,Interest,,,105000,
+2009Q02,Non-Operation Income,Other Income,,,1225,
+2009Q02,Non-Operation Income,Rental,,,1400000,
+2009Q02,Sales Revenue,Hot Blanket,,,32816,20000
+2009Q02,Sales Revenue,Kitty Box,,,123060,30000
+2009Q02,Sales Revenue,Maxi Dog,,,164080,20000
+2009Q02,Sales Revenue,Muis Huis,,,492240,5000
+2009Q02,Sales Revenue,Water Jug,,,820.4,2e+05
+2009Q01,Cost of Sales,Hot Blanket,,,156,12000
+2009Q01,Cost of Sales,Kitty Box,,,1040,30000
+2009Q01,Cost of Sales,Maxi Dog,,,1820,15000
+2009Q01,Cost of Sales,Muis Huis,,,1560,4000
+2009Q01,Cost of Sales,Water Jug,,,10.4,180000
+2009Q01,EXPENSES,Adminstrative,Depreciation,,9.6e+07,
+2009Q01,EXPENSES,Adminstrative,Insurance,,20800000,
+2009Q01,EXPENSES,Adminstrative,Meals and entertainment,,480000,
+2009Q01,EXPENSES,Adminstrative,Outside services,,2.4e+07,
+2009Q01,EXPENSES,Adminstrative,Rent,,160000,
+2009Q01,EXPENSES,Adminstrative,Repairs and maintence,,12800000,
+2009Q01,EXPENSES,Adminstrative,Supplies,,640000,
+2009Q01,EXPENSES,Adminstrative,Telephone,,1.6e+07,
+2009Q01,EXPENSES,Adminstrative,Utilities,,30400000,
+2009Q01,EXPENSES,Adminstrative,Wages and salaries,,4.8e+07,
+2009Q01,EXPENSES,Adminstrative,Web site consultancy,,640000,
+2009Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,320000,
+2009Q01,EXPENSES,Adminstrative,Web site maintence,,6400,
+2009Q01,EXPENSES,Development,Patents,,96000,
+2009Q01,EXPENSES,Development,Technology Rental,,480000,
+2009Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,384000,
+2009Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,38400000,
+2009Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,640000,
+2009Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,48000,
+2009Q01,Non-Operation Income,Gifts and Dotions,,,32000,
+2009Q01,Non-Operation Income,Interest,,,96000,
+2009Q01,Non-Operation Income,Other Income,,,1120,
+2009Q01,Non-Operation Income,Rental,,,1280000,
+2009Q01,Sales Revenue,Hot Blanket,,,18864,20000
+2009Q01,Sales Revenue,Kitty Box,,,70740,30000
+2009Q01,Sales Revenue,Maxi Dog,,,94320,20000
+2009Q01,Sales Revenue,Muis Huis,,,282960,5000
+2009Q01,Sales Revenue,Water Jug,,,471.6,2e+05
+2008Q04,Cost of Sales,Hot Blanket,,,485.4,12000
+2008Q04,Cost of Sales,Kitty Box,,,3236,30000
+2008Q04,Cost of Sales,Maxi Dog,,,5663,15000
+2008Q04,Cost of Sales,Muis Huis,,,4854,4000
+2008Q04,Cost of Sales,Water Jug,,,32.36,180000
+2008Q04,EXPENSES,Adminstrative,Depreciation,,2.4e+07,
+2008Q04,EXPENSES,Adminstrative,Insurance,,5200000,
+2008Q04,EXPENSES,Adminstrative,Meals and entertainment,,120000,
+2008Q04,EXPENSES,Adminstrative,Outside services,,6e+06,
+2008Q04,EXPENSES,Adminstrative,Rent,,40000,
+2008Q04,EXPENSES,Adminstrative,Repairs and maintence,,3200000,
+2008Q04,EXPENSES,Adminstrative,Supplies,,160000,
+2008Q04,EXPENSES,Adminstrative,Telephone,,4e+06,
+2008Q04,EXPENSES,Adminstrative,Utilities,,7600000,
+2008Q04,EXPENSES,Adminstrative,Wages and salaries,,1.2e+07,
+2008Q04,EXPENSES,Adminstrative,Web site consultancy,,160000,
+2008Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,80000,
+2008Q04,EXPENSES,Adminstrative,Web site maintence,,1600,
+2008Q04,EXPENSES,Development,Patents,,24000,
+2008Q04,EXPENSES,Development,Technology Rental,,120000,
+2008Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,96000,
+2008Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,9600000,
+2008Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,160000,
+2008Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,12000,
+2008Q04,Non-Operation Income,Gifts and Dotions,,,8000,
+2008Q04,Non-Operation Income,Interest,,,24000,
+2008Q04,Non-Operation Income,Other Income,,,280,
+2008Q04,Non-Operation Income,Rental,,,320000,
+2008Q04,Sales Revenue,Hot Blanket,,,37420,20000
+2008Q04,Sales Revenue,Kitty Box,,,140325,30000
+2008Q04,Sales Revenue,Maxi Dog,,,187100,20000
+2008Q04,Sales Revenue,Muis Huis,,,561300,5000
+2008Q04,Sales Revenue,Water Jug,,,935.5,2e+05
+2008Q03,Cost of Sales,Hot Blanket,,,2263.2,12000
+2008Q03,Cost of Sales,Kitty Box,,,15088,30000
+2008Q03,Cost of Sales,Maxi Dog,,,26404,15000
+2008Q03,Cost of Sales,Muis Huis,,,22632,4000
+2008Q03,Cost of Sales,Water Jug,,,150.88,180000
+2008Q03,EXPENSES,Adminstrative,Depreciation,,3.9e+07,
+2008Q03,EXPENSES,Adminstrative,Insurance,,8450000,
+2008Q03,EXPENSES,Adminstrative,Meals and entertainment,,195000,
+2008Q03,EXPENSES,Adminstrative,Outside services,,9750000,
+2008Q03,EXPENSES,Adminstrative,Rent,,65000,
+2008Q03,EXPENSES,Adminstrative,Repairs and maintence,,5200000,
+2008Q03,EXPENSES,Adminstrative,Supplies,,260000,
+2008Q03,EXPENSES,Adminstrative,Telephone,,6500000,
+2008Q03,EXPENSES,Adminstrative,Utilities,,12350000,
+2008Q03,EXPENSES,Adminstrative,Wages and salaries,,19500000,
+2008Q03,EXPENSES,Adminstrative,Web site consultancy,,260000,
+2008Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,130000,
+2008Q03,EXPENSES,Adminstrative,Web site maintence,,2600,
+2008Q03,EXPENSES,Development,Patents,,39000,
+2008Q03,EXPENSES,Development,Technology Rental,,195000,
+2008Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,156000,
+2008Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,15600000,
+2008Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,260000,
+2008Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,19500,
+2008Q03,Non-Operation Income,Gifts and Dotions,,,13000,
+2008Q03,Non-Operation Income,Interest,,,39000,
+2008Q03,Non-Operation Income,Other Income,,,455,
+2008Q03,Non-Operation Income,Rental,,,520000,
+2008Q03,Sales Revenue,Hot Blanket,,,34728,20000
+2008Q03,Sales Revenue,Kitty Box,,,130230,30000
+2008Q03,Sales Revenue,Maxi Dog,,,173640,20000
+2008Q03,Sales Revenue,Muis Huis,,,520920,5000
+2008Q03,Sales Revenue,Water Jug,,,868.2,2e+05
+2008Q02,Cost of Sales,Hot Blanket,,,1022.4,12000
+2008Q02,Cost of Sales,Kitty Box,,,6816,30000
+2008Q02,Cost of Sales,Maxi Dog,,,11928,15000
+2008Q02,Cost of Sales,Muis Huis,,,10224,4000
+2008Q02,Cost of Sales,Water Jug,,,68.16,180000
+2008Q02,EXPENSES,Adminstrative,Depreciation,,9.6e+07,
+2008Q02,EXPENSES,Adminstrative,Insurance,,20800000,
+2008Q02,EXPENSES,Adminstrative,Meals and entertainment,,480000,
+2008Q02,EXPENSES,Adminstrative,Outside services,,2.4e+07,
+2008Q02,EXPENSES,Adminstrative,Rent,,160000,
+2008Q02,EXPENSES,Adminstrative,Repairs and maintence,,12800000,
+2008Q02,EXPENSES,Adminstrative,Supplies,,640000,
+2008Q02,EXPENSES,Adminstrative,Telephone,,1.6e+07,
+2008Q02,EXPENSES,Adminstrative,Utilities,,30400000,
+2008Q02,EXPENSES,Adminstrative,Wages and salaries,,4.8e+07,
+2008Q02,EXPENSES,Adminstrative,Web site consultancy,,640000,
+2008Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,320000,
+2008Q02,EXPENSES,Adminstrative,Web site maintence,,6400,
+2008Q02,EXPENSES,Development,Patents,,96000,
+2008Q02,EXPENSES,Development,Technology Rental,,480000,
+2008Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,384000,
+2008Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,38400000,
+2008Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,640000,
+2008Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,48000,
+2008Q02,Non-Operation Income,Gifts and Dotions,,,32000,
+2008Q02,Non-Operation Income,Interest,,,96000,
+2008Q02,Non-Operation Income,Other Income,,,1120,
+2008Q02,Non-Operation Income,Rental,,,1280000,
+2008Q02,Sales Revenue,Hot Blanket,,,7878,20000
+2008Q02,Sales Revenue,Kitty Box,,,29542.5,30000
+2008Q02,Sales Revenue,Maxi Dog,,,39390,20000
+2008Q02,Sales Revenue,Muis Huis,,,118170,5000
+2008Q02,Sales Revenue,Water Jug,,,196.95,2e+05
+2008Q01,Cost of Sales,Hot Blanket,,,2915.4,12000
+2008Q01,Cost of Sales,Kitty Box,,,19436,30000
+2008Q01,Cost of Sales,Maxi Dog,,,34013,15000
+2008Q01,Cost of Sales,Muis Huis,,,29154,4000
+2008Q01,Cost of Sales,Water Jug,,,194.36,180000
+2008Q01,EXPENSES,Adminstrative,Depreciation,,1.38e+08,
+2008Q01,EXPENSES,Adminstrative,Insurance,,29900000,
+2008Q01,EXPENSES,Adminstrative,Meals and entertainment,,690000,
+2008Q01,EXPENSES,Adminstrative,Outside services,,34500000,
+2008Q01,EXPENSES,Adminstrative,Rent,,230000,
+2008Q01,EXPENSES,Adminstrative,Repairs and maintence,,18400000,
+2008Q01,EXPENSES,Adminstrative,Supplies,,920000,
+2008Q01,EXPENSES,Adminstrative,Telephone,,2.3e+07,
+2008Q01,EXPENSES,Adminstrative,Utilities,,43700000,
+2008Q01,EXPENSES,Adminstrative,Wages and salaries,,6.9e+07,
+2008Q01,EXPENSES,Adminstrative,Web site consultancy,,920000,
+2008Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,460000,
+2008Q01,EXPENSES,Adminstrative,Web site maintence,,9200,
+2008Q01,EXPENSES,Development,Patents,,138000,
+2008Q01,EXPENSES,Development,Technology Rental,,690000,
+2008Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,552000,
+2008Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,55200000,
+2008Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,920000,
+2008Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,69000,
+2008Q01,Non-Operation Income,Gifts and Dotions,,,46000,
+2008Q01,Non-Operation Income,Interest,,,138000,
+2008Q01,Non-Operation Income,Other Income,,,1610,
+2008Q01,Non-Operation Income,Rental,,,1840000,
+2008Q01,Sales Revenue,Hot Blanket,,,38444,20000
+2008Q01,Sales Revenue,Kitty Box,,,144165,30000
+2008Q01,Sales Revenue,Maxi Dog,,,192220,20000
+2008Q01,Sales Revenue,Muis Huis,,,576660,5000
+2008Q01,Sales Revenue,Water Jug,,,961.1,2e+05
+2007Q04,Cost of Sales,Hot Blanket,,,1159.8,12000
+2007Q04,Cost of Sales,Kitty Box,,,7732,30000
+2007Q04,Cost of Sales,Maxi Dog,,,13531,15000
+2007Q04,Cost of Sales,Muis Huis,,,11598,4000
+2007Q04,Cost of Sales,Water Jug,,,77.32,180000
+2007Q04,EXPENSES,Adminstrative,Depreciation,,1.05e+08,
+2007Q04,EXPENSES,Adminstrative,Insurance,,22750000,
+2007Q04,EXPENSES,Adminstrative,Meals and entertainment,,525000,
+2007Q04,EXPENSES,Adminstrative,Outside services,,26250000,
+2007Q04,EXPENSES,Adminstrative,Rent,,175000,
+2007Q04,EXPENSES,Adminstrative,Repairs and maintence,,1.4e+07,
+2007Q04,EXPENSES,Adminstrative,Supplies,,7e+05,
+2007Q04,EXPENSES,Adminstrative,Telephone,,17500000,
+2007Q04,EXPENSES,Adminstrative,Utilities,,33250000,
+2007Q04,EXPENSES,Adminstrative,Wages and salaries,,52500000,
+2007Q04,EXPENSES,Adminstrative,Web site consultancy,,7e+05,
+2007Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,350000,
+2007Q04,EXPENSES,Adminstrative,Web site maintence,,7000,
+2007Q04,EXPENSES,Development,Patents,,105000,
+2007Q04,EXPENSES,Development,Technology Rental,,525000,
+2007Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,420000,
+2007Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,4.2e+07,
+2007Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,7e+05,
+2007Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,52500,
+2007Q04,Non-Operation Income,Gifts and Dotions,,,35000,
+2007Q04,Non-Operation Income,Interest,,,105000,
+2007Q04,Non-Operation Income,Other Income,,,1225,
+2007Q04,Non-Operation Income,Rental,,,1400000,
+2007Q04,Sales Revenue,Hot Blanket,,,39158,20000
+2007Q04,Sales Revenue,Kitty Box,,,146842.5,30000
+2007Q04,Sales Revenue,Maxi Dog,,,195790,20000
+2007Q04,Sales Revenue,Muis Huis,,,587370,5000
+2007Q04,Sales Revenue,Water Jug,,,978.95,2e+05
+2007Q03,Cost of Sales,Hot Blanket,,,822.3,12000
+2007Q03,Cost of Sales,Kitty Box,,,5482,30000
+2007Q03,Cost of Sales,Maxi Dog,,,9593.5,15000
+2007Q03,Cost of Sales,Muis Huis,,,8223,4000
+2007Q03,Cost of Sales,Water Jug,,,54.82,180000
+2007Q03,EXPENSES,Adminstrative,Depreciation,,9.6e+07,
+2007Q03,EXPENSES,Adminstrative,Insurance,,20800000,
+2007Q03,EXPENSES,Adminstrative,Meals and entertainment,,480000,
+2007Q03,EXPENSES,Adminstrative,Outside services,,2.4e+07,
+2007Q03,EXPENSES,Adminstrative,Rent,,160000,
+2007Q03,EXPENSES,Adminstrative,Repairs and maintence,,12800000,
+2007Q03,EXPENSES,Adminstrative,Supplies,,640000,
+2007Q03,EXPENSES,Adminstrative,Telephone,,1.6e+07,
+2007Q03,EXPENSES,Adminstrative,Utilities,,30400000,
+2007Q03,EXPENSES,Adminstrative,Wages and salaries,,4.8e+07,
+2007Q03,EXPENSES,Adminstrative,Web site consultancy,,640000,
+2007Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,320000,
+2007Q03,EXPENSES,Adminstrative,Web site maintence,,6400,
+2007Q03,EXPENSES,Development,Patents,,96000,
+2007Q03,EXPENSES,Development,Technology Rental,,480000,
+2007Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,384000,
+2007Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,38400000,
+2007Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,640000,
+2007Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,48000,
+2007Q03,Non-Operation Income,Gifts and Dotions,,,32000,
+2007Q03,Non-Operation Income,Interest,,,96000,
+2007Q03,Non-Operation Income,Other Income,,,1120,
+2007Q03,Non-Operation Income,Rental,,,1280000,
+2007Q03,Sales Revenue,Hot Blanket,,,1138,20000
+2007Q03,Sales Revenue,Kitty Box,,,4267.5,30000
+2007Q03,Sales Revenue,Maxi Dog,,,5690,20000
+2007Q03,Sales Revenue,Muis Huis,,,17070,5000
+2007Q03,Sales Revenue,Water Jug,,,28.45,2e+05
+2007Q02,Cost of Sales,Hot Blanket,,,2045.7,12000
+2007Q02,Cost of Sales,Kitty Box,,,13638,30000
+2007Q02,Cost of Sales,Maxi Dog,,,23866.5,15000
+2007Q02,Cost of Sales,Muis Huis,,,20457,4000
+2007Q02,Cost of Sales,Water Jug,,,136.38,180000
+2007Q02,EXPENSES,Adminstrative,Depreciation,,3.3e+07,
+2007Q02,EXPENSES,Adminstrative,Insurance,,7150000,
+2007Q02,EXPENSES,Adminstrative,Meals and entertainment,,165000,
+2007Q02,EXPENSES,Adminstrative,Outside services,,8250000,
+2007Q02,EXPENSES,Adminstrative,Rent,,55000,
+2007Q02,EXPENSES,Adminstrative,Repairs and maintence,,4400000,
+2007Q02,EXPENSES,Adminstrative,Supplies,,220000,
+2007Q02,EXPENSES,Adminstrative,Telephone,,5500000,
+2007Q02,EXPENSES,Adminstrative,Utilities,,10450000,
+2007Q02,EXPENSES,Adminstrative,Wages and salaries,,16500000,
+2007Q02,EXPENSES,Adminstrative,Web site consultancy,,220000,
+2007Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,110000,
+2007Q02,EXPENSES,Adminstrative,Web site maintence,,2200,
+2007Q02,EXPENSES,Development,Patents,,33000,
+2007Q02,EXPENSES,Development,Technology Rental,,165000,
+2007Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,132000,
+2007Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,13200000,
+2007Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,220000,
+2007Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,16500,
+2007Q02,Non-Operation Income,Gifts and Dotions,,,11000,
+2007Q02,Non-Operation Income,Interest,,,33000,
+2007Q02,Non-Operation Income,Other Income,,,385,
+2007Q02,Non-Operation Income,Rental,,,440000,
+2007Q02,Sales Revenue,Hot Blanket,,,30112,20000
+2007Q02,Sales Revenue,Kitty Box,,,112920,30000
+2007Q02,Sales Revenue,Maxi Dog,,,150560,20000
+2007Q02,Sales Revenue,Muis Huis,,,451680,5000
+2007Q02,Sales Revenue,Water Jug,,,752.8,2e+05
+2007Q01,Cost of Sales,Hot Blanket,,,1421.4,12000
+2007Q01,Cost of Sales,Kitty Box,,,9476,30000
+2007Q01,Cost of Sales,Maxi Dog,,,16583,15000
+2007Q01,Cost of Sales,Muis Huis,,,14214,4000
+2007Q01,Cost of Sales,Water Jug,,,94.76,180000
+2007Q01,EXPENSES,Adminstrative,Depreciation,,1.44e+08,
+2007Q01,EXPENSES,Adminstrative,Insurance,,31200000,
+2007Q01,EXPENSES,Adminstrative,Meals and entertainment,,720000,
+2007Q01,EXPENSES,Adminstrative,Outside services,,3.6e+07,
+2007Q01,EXPENSES,Adminstrative,Rent,,240000,
+2007Q01,EXPENSES,Adminstrative,Repairs and maintence,,19200000,
+2007Q01,EXPENSES,Adminstrative,Supplies,,960000,
+2007Q01,EXPENSES,Adminstrative,Telephone,,2.4e+07,
+2007Q01,EXPENSES,Adminstrative,Utilities,,45600000,
+2007Q01,EXPENSES,Adminstrative,Wages and salaries,,7.2e+07,
+2007Q01,EXPENSES,Adminstrative,Web site consultancy,,960000,
+2007Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,480000,
+2007Q01,EXPENSES,Adminstrative,Web site maintence,,9600,
+2007Q01,EXPENSES,Development,Patents,,144000,
+2007Q01,EXPENSES,Development,Technology Rental,,720000,
+2007Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,576000,
+2007Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,57600000,
+2007Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,960000,
+2007Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,72000,
+2007Q01,Non-Operation Income,Gifts and Dotions,,,48000,
+2007Q01,Non-Operation Income,Interest,,,144000,
+2007Q01,Non-Operation Income,Other Income,,,1680,
+2007Q01,Non-Operation Income,Rental,,,1920000,
+2007Q01,Sales Revenue,Hot Blanket,,,12622,20000
+2007Q01,Sales Revenue,Kitty Box,,,47332.5,30000
+2007Q01,Sales Revenue,Maxi Dog,,,63110,20000
+2007Q01,Sales Revenue,Muis Huis,,,189330,5000
+2007Q01,Sales Revenue,Water Jug,,,315.55,2e+05
+2006Q04,Cost of Sales,Hot Blanket,,,2922.3,12000
+2006Q04,Cost of Sales,Kitty Box,,,19482,30000
+2006Q04,Cost of Sales,Maxi Dog,,,34093.5,15000
+2006Q04,Cost of Sales,Muis Huis,,,29223,4000
+2006Q04,Cost of Sales,Water Jug,,,194.82,180000
+2006Q04,EXPENSES,Adminstrative,Depreciation,,3.6e+07,
+2006Q04,EXPENSES,Adminstrative,Insurance,,7800000,
+2006Q04,EXPENSES,Adminstrative,Meals and entertainment,,180000,
+2006Q04,EXPENSES,Adminstrative,Outside services,,9e+06,
+2006Q04,EXPENSES,Adminstrative,Rent,,60000,
+2006Q04,EXPENSES,Adminstrative,Repairs and maintence,,4800000,
+2006Q04,EXPENSES,Adminstrative,Supplies,,240000,
+2006Q04,EXPENSES,Adminstrative,Telephone,,6e+06,
+2006Q04,EXPENSES,Adminstrative,Utilities,,11400000,
+2006Q04,EXPENSES,Adminstrative,Wages and salaries,,1.8e+07,
+2006Q04,EXPENSES,Adminstrative,Web site consultancy,,240000,
+2006Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,120000,
+2006Q04,EXPENSES,Adminstrative,Web site maintence,,2400,
+2006Q04,EXPENSES,Development,Patents,,36000,
+2006Q04,EXPENSES,Development,Technology Rental,,180000,
+2006Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,144000,
+2006Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,14400000,
+2006Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,240000,
+2006Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,18000,
+2006Q04,Non-Operation Income,Gifts and Dotions,,,12000,
+2006Q04,Non-Operation Income,Interest,,,36000,
+2006Q04,Non-Operation Income,Other Income,,,420,
+2006Q04,Non-Operation Income,Rental,,,480000,
+2006Q04,Sales Revenue,Hot Blanket,,,39784,20000
+2006Q04,Sales Revenue,Kitty Box,,,149190,30000
+2006Q04,Sales Revenue,Maxi Dog,,,198920,20000
+2006Q04,Sales Revenue,Muis Huis,,,596760,5000
+2006Q04,Sales Revenue,Water Jug,,,994.6,2e+05
+2006Q03,Cost of Sales,Hot Blanket,,,509.7,12000
+2006Q03,Cost of Sales,Kitty Box,,,3398,30000
+2006Q03,Cost of Sales,Maxi Dog,,,5946.5,15000
+2006Q03,Cost of Sales,Muis Huis,,,5097,4000
+2006Q03,Cost of Sales,Water Jug,,,33.98,180000
+2006Q03,EXPENSES,Adminstrative,Depreciation,,1.2e+08,
+2006Q03,EXPENSES,Adminstrative,Insurance,,2.6e+07,
+2006Q03,EXPENSES,Adminstrative,Meals and entertainment,,6e+05,
+2006Q03,EXPENSES,Adminstrative,Outside services,,3e+07,
+2006Q03,EXPENSES,Adminstrative,Rent,,2e+05,
+2006Q03,EXPENSES,Adminstrative,Repairs and maintence,,1.6e+07,
+2006Q03,EXPENSES,Adminstrative,Supplies,,8e+05,
+2006Q03,EXPENSES,Adminstrative,Telephone,,2e+07,
+2006Q03,EXPENSES,Adminstrative,Utilities,,3.8e+07,
+2006Q03,EXPENSES,Adminstrative,Wages and salaries,,6e+07,
+2006Q03,EXPENSES,Adminstrative,Web site consultancy,,8e+05,
+2006Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,4e+05,
+2006Q03,EXPENSES,Adminstrative,Web site maintence,,8000,
+2006Q03,EXPENSES,Development,Patents,,120000,
+2006Q03,EXPENSES,Development,Technology Rental,,6e+05,
+2006Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,480000,
+2006Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,4.8e+07,
+2006Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,8e+05,
+2006Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,60000,
+2006Q03,Non-Operation Income,Gifts and Dotions,,,40000,
+2006Q03,Non-Operation Income,Interest,,,120000,
+2006Q03,Non-Operation Income,Other Income,,,1400,
+2006Q03,Non-Operation Income,Rental,,,1600000,
+2006Q03,Sales Revenue,Hot Blanket,,,36944,20000
+2006Q03,Sales Revenue,Kitty Box,,,138540,30000
+2006Q03,Sales Revenue,Maxi Dog,,,184720,20000
+2006Q03,Sales Revenue,Muis Huis,,,554160,5000
+2006Q03,Sales Revenue,Water Jug,,,923.6,2e+05
+2006Q02,Cost of Sales,Hot Blanket,,,2397.3,12000
+2006Q02,Cost of Sales,Kitty Box,,,15982,30000
+2006Q02,Cost of Sales,Maxi Dog,,,27968.5,15000
+2006Q02,Cost of Sales,Muis Huis,,,23973,4000
+2006Q02,Cost of Sales,Water Jug,,,159.82,180000
+2006Q02,EXPENSES,Adminstrative,Depreciation,,2.1e+07,
+2006Q02,EXPENSES,Adminstrative,Insurance,,4550000,
+2006Q02,EXPENSES,Adminstrative,Meals and entertainment,,105000,
+2006Q02,EXPENSES,Adminstrative,Outside services,,5250000,
+2006Q02,EXPENSES,Adminstrative,Rent,,35000,
+2006Q02,EXPENSES,Adminstrative,Repairs and maintence,,2800000,
+2006Q02,EXPENSES,Adminstrative,Supplies,,140000,
+2006Q02,EXPENSES,Adminstrative,Telephone,,3500000,
+2006Q02,EXPENSES,Adminstrative,Utilities,,6650000,
+2006Q02,EXPENSES,Adminstrative,Wages and salaries,,10500000,
+2006Q02,EXPENSES,Adminstrative,Web site consultancy,,140000,
+2006Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,70000,
+2006Q02,EXPENSES,Adminstrative,Web site maintence,,1400,
+2006Q02,EXPENSES,Development,Patents,,21000,
+2006Q02,EXPENSES,Development,Technology Rental,,105000,
+2006Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,84000,
+2006Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,8400000,
+2006Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,140000,
+2006Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,10500,
+2006Q02,Non-Operation Income,Gifts and Dotions,,,7000,
+2006Q02,Non-Operation Income,Interest,,,21000,
+2006Q02,Non-Operation Income,Other Income,,,245,
+2006Q02,Non-Operation Income,Rental,,,280000,
+2006Q02,Sales Revenue,Hot Blanket,,,950,20000
+2006Q02,Sales Revenue,Kitty Box,,,3562.5,30000
+2006Q02,Sales Revenue,Maxi Dog,,,4750,20000
+2006Q02,Sales Revenue,Muis Huis,,,14250,5000
+2006Q02,Sales Revenue,Water Jug,,,23.75,2e+05
+2006Q01,Cost of Sales,Hot Blanket,,,824.4,12000
+2006Q01,Cost of Sales,Kitty Box,,,5496,30000
+2006Q01,Cost of Sales,Maxi Dog,,,9618,15000
+2006Q01,Cost of Sales,Muis Huis,,,8244,4000
+2006Q01,Cost of Sales,Water Jug,,,54.96,180000
+2006Q01,EXPENSES,Adminstrative,Depreciation,,6e+06,
+2006Q01,EXPENSES,Adminstrative,Insurance,,1300000,
+2006Q01,EXPENSES,Adminstrative,Meals and entertainment,,30000,
+2006Q01,EXPENSES,Adminstrative,Outside services,,1500000,
+2006Q01,EXPENSES,Adminstrative,Rent,,10000,
+2006Q01,EXPENSES,Adminstrative,Repairs and maintence,,8e+05,
+2006Q01,EXPENSES,Adminstrative,Supplies,,40000,
+2006Q01,EXPENSES,Adminstrative,Telephone,,1e+06,
+2006Q01,EXPENSES,Adminstrative,Utilities,,1900000,
+2006Q01,EXPENSES,Adminstrative,Wages and salaries,,3e+06,
+2006Q01,EXPENSES,Adminstrative,Web site consultancy,,40000,
+2006Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,20000,
+2006Q01,EXPENSES,Adminstrative,Web site maintence,,400,
+2006Q01,EXPENSES,Development,Patents,,6000,
+2006Q01,EXPENSES,Development,Technology Rental,,30000,
+2006Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,24000,
+2006Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,2400000,
+2006Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,40000,
+2006Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,3000,
+2006Q01,Non-Operation Income,Gifts and Dotions,,,2000,
+2006Q01,Non-Operation Income,Interest,,,6000,
+2006Q01,Non-Operation Income,Other Income,,,70,
+2006Q01,Non-Operation Income,Rental,,,80000,
+2006Q01,Sales Revenue,Hot Blanket,,,22424,20000
+2006Q01,Sales Revenue,Kitty Box,,,84090,30000
+2006Q01,Sales Revenue,Maxi Dog,,,112120,20000
+2006Q01,Sales Revenue,Muis Huis,,,336360,5000
+2006Q01,Sales Revenue,Water Jug,,,560.6,2e+05
+2005Q04,Cost of Sales,Hot Blanket,,,2629.8,12000
+2005Q04,Cost of Sales,Kitty Box,,,17532,30000
+2005Q04,Cost of Sales,Maxi Dog,,,30681,15000
+2005Q04,Cost of Sales,Muis Huis,,,26298,4000
+2005Q04,Cost of Sales,Water Jug,,,175.32,180000
+2005Q04,EXPENSES,Adminstrative,Depreciation,,3e+06,
+2005Q04,EXPENSES,Adminstrative,Insurance,,650000,
+2005Q04,EXPENSES,Adminstrative,Meals and entertainment,,15000,
+2005Q04,EXPENSES,Adminstrative,Outside services,,750000,
+2005Q04,EXPENSES,Adminstrative,Rent,,5000,
+2005Q04,EXPENSES,Adminstrative,Repairs and maintence,,4e+05,
+2005Q04,EXPENSES,Adminstrative,Supplies,,20000,
+2005Q04,EXPENSES,Adminstrative,Telephone,,5e+05,
+2005Q04,EXPENSES,Adminstrative,Utilities,,950000,
+2005Q04,EXPENSES,Adminstrative,Wages and salaries,,1500000,
+2005Q04,EXPENSES,Adminstrative,Web site consultancy,,20000,
+2005Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,10000,
+2005Q04,EXPENSES,Adminstrative,Web site maintence,,200,
+2005Q04,EXPENSES,Development,Patents,,3000,
+2005Q04,EXPENSES,Development,Technology Rental,,15000,
+2005Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,12000,
+2005Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,1200000,
+2005Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,20000,
+2005Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,1500,
+2005Q04,Non-Operation Income,Gifts and Dotions,,,1000,
+2005Q04,Non-Operation Income,Interest,,,3000,
+2005Q04,Non-Operation Income,Other Income,,,35,
+2005Q04,Non-Operation Income,Rental,,,40000,
+2005Q04,Sales Revenue,Hot Blanket,,,32804,20000
+2005Q04,Sales Revenue,Kitty Box,,,123015,30000
+2005Q04,Sales Revenue,Maxi Dog,,,164020,20000
+2005Q04,Sales Revenue,Muis Huis,,,492060,5000
+2005Q04,Sales Revenue,Water Jug,,,820.1,2e+05
+2005Q03,Cost of Sales,Hot Blanket,,,832.5,12000
+2005Q03,Cost of Sales,Kitty Box,,,5550,30000
+2005Q03,Cost of Sales,Maxi Dog,,,9712.5,15000
+2005Q03,Cost of Sales,Muis Huis,,,8325,4000
+2005Q03,Cost of Sales,Water Jug,,,55.5,180000
+2005Q03,EXPENSES,Adminstrative,Depreciation,,9e+07,
+2005Q03,EXPENSES,Adminstrative,Insurance,,19500000,
+2005Q03,EXPENSES,Adminstrative,Meals and entertainment,,450000,
+2005Q03,EXPENSES,Adminstrative,Outside services,,22500000,
+2005Q03,EXPENSES,Adminstrative,Rent,,150000,
+2005Q03,EXPENSES,Adminstrative,Repairs and maintence,,1.2e+07,
+2005Q03,EXPENSES,Adminstrative,Supplies,,6e+05,
+2005Q03,EXPENSES,Adminstrative,Telephone,,1.5e+07,
+2005Q03,EXPENSES,Adminstrative,Utilities,,28500000,
+2005Q03,EXPENSES,Adminstrative,Wages and salaries,,4.5e+07,
+2005Q03,EXPENSES,Adminstrative,Web site consultancy,,6e+05,
+2005Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,3e+05,
+2005Q03,EXPENSES,Adminstrative,Web site maintence,,6000,
+2005Q03,EXPENSES,Development,Patents,,90000,
+2005Q03,EXPENSES,Development,Technology Rental,,450000,
+2005Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,360000,
+2005Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,3.6e+07,
+2005Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,6e+05,
+2005Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,45000,
+2005Q03,Non-Operation Income,Gifts and Dotions,,,30000,
+2005Q03,Non-Operation Income,Interest,,,90000,
+2005Q03,Non-Operation Income,Other Income,,,1050,
+2005Q03,Non-Operation Income,Rental,,,1200000,
+2005Q03,Sales Revenue,Hot Blanket,,,3912,20000
+2005Q03,Sales Revenue,Kitty Box,,,14670,30000
+2005Q03,Sales Revenue,Maxi Dog,,,19560,20000
+2005Q03,Sales Revenue,Muis Huis,,,58680,5000
+2005Q03,Sales Revenue,Water Jug,,,97.8,2e+05
+2005Q02,Cost of Sales,Hot Blanket,,,178.5,12000
+2005Q02,Cost of Sales,Kitty Box,,,1190,30000
+2005Q02,Cost of Sales,Maxi Dog,,,2082.5,15000
+2005Q02,Cost of Sales,Muis Huis,,,1785,4000
+2005Q02,Cost of Sales,Water Jug,,,11.9,180000
+2005Q02,EXPENSES,Adminstrative,Depreciation,,1.26e+08,
+2005Q02,EXPENSES,Adminstrative,Insurance,,27300000,
+2005Q02,EXPENSES,Adminstrative,Meals and entertainment,,630000,
+2005Q02,EXPENSES,Adminstrative,Outside services,,31500000,
+2005Q02,EXPENSES,Adminstrative,Rent,,210000,
+2005Q02,EXPENSES,Adminstrative,Repairs and maintence,,16800000,
+2005Q02,EXPENSES,Adminstrative,Supplies,,840000,
+2005Q02,EXPENSES,Adminstrative,Telephone,,2.1e+07,
+2005Q02,EXPENSES,Adminstrative,Utilities,,39900000,
+2005Q02,EXPENSES,Adminstrative,Wages and salaries,,6.3e+07,
+2005Q02,EXPENSES,Adminstrative,Web site consultancy,,840000,
+2005Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,420000,
+2005Q02,EXPENSES,Adminstrative,Web site maintence,,8400,
+2005Q02,EXPENSES,Development,Patents,,126000,
+2005Q02,EXPENSES,Development,Technology Rental,,630000,
+2005Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,504000,
+2005Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,50400000,
+2005Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,840000,
+2005Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,63000,
+2005Q02,Non-Operation Income,Gifts and Dotions,,,42000,
+2005Q02,Non-Operation Income,Interest,,,126000,
+2005Q02,Non-Operation Income,Other Income,,,1470,
+2005Q02,Non-Operation Income,Rental,,,1680000,
+2005Q02,Sales Revenue,Hot Blanket,,,976,20000
+2005Q02,Sales Revenue,Kitty Box,,,3660,30000
+2005Q02,Sales Revenue,Maxi Dog,,,4880,20000
+2005Q02,Sales Revenue,Muis Huis,,,14640,5000
+2005Q02,Sales Revenue,Water Jug,,,24.4,2e+05
+2005Q01,Cost of Sales,Hot Blanket,,,38.7,12000
+2005Q01,Cost of Sales,Kitty Box,,,258,30000
+2005Q01,Cost of Sales,Maxi Dog,,,451.5,15000
+2005Q01,Cost of Sales,Muis Huis,,,387,4000
+2005Q01,Cost of Sales,Water Jug,,,2.58,180000
+2005Q01,EXPENSES,Adminstrative,Depreciation,,1.29e+08,
+2005Q01,EXPENSES,Adminstrative,Insurance,,27950000,
+2005Q01,EXPENSES,Adminstrative,Meals and entertainment,,645000,
+2005Q01,EXPENSES,Adminstrative,Outside services,,32250000,
+2005Q01,EXPENSES,Adminstrative,Rent,,215000,
+2005Q01,EXPENSES,Adminstrative,Repairs and maintence,,17200000,
+2005Q01,EXPENSES,Adminstrative,Supplies,,860000,
+2005Q01,EXPENSES,Adminstrative,Telephone,,21500000,
+2005Q01,EXPENSES,Adminstrative,Utilities,,40850000,
+2005Q01,EXPENSES,Adminstrative,Wages and salaries,,64500000,
+2005Q01,EXPENSES,Adminstrative,Web site consultancy,,860000,
+2005Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,430000,
+2005Q01,EXPENSES,Adminstrative,Web site maintence,,8600,
+2005Q01,EXPENSES,Development,Patents,,129000,
+2005Q01,EXPENSES,Development,Technology Rental,,645000,
+2005Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,516000,
+2005Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,51600000,
+2005Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,860000,
+2005Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,64500,
+2005Q01,Non-Operation Income,Gifts and Dotions,,,43000,
+2005Q01,Non-Operation Income,Interest,,,129000,
+2005Q01,Non-Operation Income,Other Income,,,1505,
+2005Q01,Non-Operation Income,Rental,,,1720000,
+2005Q01,Sales Revenue,Hot Blanket,,,21610,20000
+2005Q01,Sales Revenue,Kitty Box,,,81037.5,30000
+2005Q01,Sales Revenue,Maxi Dog,,,108050,20000
+2005Q01,Sales Revenue,Muis Huis,,,324150,5000
+2005Q01,Sales Revenue,Water Jug,,,540.25,2e+05
+2004Q04,Cost of Sales,Hot Blanket,,,84,12000
+2004Q04,Cost of Sales,Kitty Box,,,560,30000
+2004Q04,Cost of Sales,Maxi Dog,,,980,15000
+2004Q04,Cost of Sales,Muis Huis,,,840,4000
+2004Q04,Cost of Sales,Water Jug,,,5.6,180000
+2004Q04,EXPENSES,Adminstrative,Depreciation,,9.9e+07,
+2004Q04,EXPENSES,Adminstrative,Insurance,,21450000,
+2004Q04,EXPENSES,Adminstrative,Meals and entertainment,,495000,
+2004Q04,EXPENSES,Adminstrative,Outside services,,24750000,
+2004Q04,EXPENSES,Adminstrative,Rent,,165000,
+2004Q04,EXPENSES,Adminstrative,Repairs and maintence,,13200000,
+2004Q04,EXPENSES,Adminstrative,Supplies,,660000,
+2004Q04,EXPENSES,Adminstrative,Telephone,,16500000,
+2004Q04,EXPENSES,Adminstrative,Utilities,,31350000,
+2004Q04,EXPENSES,Adminstrative,Wages and salaries,,49500000,
+2004Q04,EXPENSES,Adminstrative,Web site consultancy,,660000,
+2004Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,330000,
+2004Q04,EXPENSES,Adminstrative,Web site maintence,,6600,
+2004Q04,EXPENSES,Development,Patents,,99000,
+2004Q04,EXPENSES,Development,Technology Rental,,495000,
+2004Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,396000,
+2004Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,39600000,
+2004Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,660000,
+2004Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,49500,
+2004Q04,Non-Operation Income,Gifts and Dotions,,,33000,
+2004Q04,Non-Operation Income,Interest,,,99000,
+2004Q04,Non-Operation Income,Other Income,,,1155,
+2004Q04,Non-Operation Income,Rental,,,1320000,
+2004Q04,Sales Revenue,Hot Blanket,,,24466,20000
+2004Q04,Sales Revenue,Kitty Box,,,91747.5,30000
+2004Q04,Sales Revenue,Maxi Dog,,,122330,20000
+2004Q04,Sales Revenue,Muis Huis,,,366990,5000
+2004Q04,Sales Revenue,Water Jug,,,611.65,2e+05
+2004Q03,Cost of Sales,Hot Blanket,,,283.8,12000
+2004Q03,Cost of Sales,Kitty Box,,,1892,30000
+2004Q03,Cost of Sales,Maxi Dog,,,3311,15000
+2004Q03,Cost of Sales,Muis Huis,,,2838,4000
+2004Q03,Cost of Sales,Water Jug,,,18.92,180000
+2004Q03,EXPENSES,Adminstrative,Depreciation,,1.2e+07,
+2004Q03,EXPENSES,Adminstrative,Insurance,,2600000,
+2004Q03,EXPENSES,Adminstrative,Meals and entertainment,,60000,
+2004Q03,EXPENSES,Adminstrative,Outside services,,3e+06,
+2004Q03,EXPENSES,Adminstrative,Rent,,20000,
+2004Q03,EXPENSES,Adminstrative,Repairs and maintence,,1600000,
+2004Q03,EXPENSES,Adminstrative,Supplies,,80000,
+2004Q03,EXPENSES,Adminstrative,Telephone,,2e+06,
+2004Q03,EXPENSES,Adminstrative,Utilities,,3800000,
+2004Q03,EXPENSES,Adminstrative,Wages and salaries,,6e+06,
+2004Q03,EXPENSES,Adminstrative,Web site consultancy,,80000,
+2004Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,40000,
+2004Q03,EXPENSES,Adminstrative,Web site maintence,,800,
+2004Q03,EXPENSES,Development,Patents,,12000,
+2004Q03,EXPENSES,Development,Technology Rental,,60000,
+2004Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,48000,
+2004Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,4800000,
+2004Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,80000,
+2004Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,6000,
+2004Q03,Non-Operation Income,Gifts and Dotions,,,4000,
+2004Q03,Non-Operation Income,Interest,,,12000,
+2004Q03,Non-Operation Income,Other Income,,,140,
+2004Q03,Non-Operation Income,Rental,,,160000,
+2004Q03,Sales Revenue,Hot Blanket,,,36388,20000
+2004Q03,Sales Revenue,Kitty Box,,,136455,30000
+2004Q03,Sales Revenue,Maxi Dog,,,181940,20000
+2004Q03,Sales Revenue,Muis Huis,,,545820,5000
+2004Q03,Sales Revenue,Water Jug,,,909.7,2e+05
+2004Q02,Cost of Sales,Hot Blanket,,,650.7,12000
+2004Q02,Cost of Sales,Kitty Box,,,4338,30000
+2004Q02,Cost of Sales,Maxi Dog,,,7591.5,15000
+2004Q02,Cost of Sales,Muis Huis,,,6507,4000
+2004Q02,Cost of Sales,Water Jug,,,43.38,180000
+2004Q02,EXPENSES,Adminstrative,Depreciation,,5.7e+07,
+2004Q02,EXPENSES,Adminstrative,Insurance,,12350000,
+2004Q02,EXPENSES,Adminstrative,Meals and entertainment,,285000,
+2004Q02,EXPENSES,Adminstrative,Outside services,,14250000,
+2004Q02,EXPENSES,Adminstrative,Rent,,95000,
+2004Q02,EXPENSES,Adminstrative,Repairs and maintence,,7600000,
+2004Q02,EXPENSES,Adminstrative,Supplies,,380000,
+2004Q02,EXPENSES,Adminstrative,Telephone,,9500000,
+2004Q02,EXPENSES,Adminstrative,Utilities,,18050000,
+2004Q02,EXPENSES,Adminstrative,Wages and salaries,,28500000,
+2004Q02,EXPENSES,Adminstrative,Web site consultancy,,380000,
+2004Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,190000,
+2004Q02,EXPENSES,Adminstrative,Web site maintence,,3800,
+2004Q02,EXPENSES,Development,Patents,,57000,
+2004Q02,EXPENSES,Development,Technology Rental,,285000,
+2004Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,228000,
+2004Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,22800000,
+2004Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,380000,
+2004Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,28500,
+2004Q02,Non-Operation Income,Gifts and Dotions,,,19000,
+2004Q02,Non-Operation Income,Interest,,,57000,
+2004Q02,Non-Operation Income,Other Income,,,665,
+2004Q02,Non-Operation Income,Rental,,,760000,
+2004Q02,Sales Revenue,Hot Blanket,,,37506,20000
+2004Q02,Sales Revenue,Kitty Box,,,140647.5,30000
+2004Q02,Sales Revenue,Maxi Dog,,,187530,20000
+2004Q02,Sales Revenue,Muis Huis,,,562590,5000
+2004Q02,Sales Revenue,Water Jug,,,937.65,2e+05
+2004Q01,Cost of Sales,Hot Blanket,,,54.6,12000
+2004Q01,Cost of Sales,Kitty Box,,,364,30000
+2004Q01,Cost of Sales,Maxi Dog,,,637,15000
+2004Q01,Cost of Sales,Muis Huis,,,546,4000
+2004Q01,Cost of Sales,Water Jug,,,3.64,180000
+2004Q01,EXPENSES,Adminstrative,Depreciation,,7.8e+07,
+2004Q01,EXPENSES,Adminstrative,Insurance,,16900000,
+2004Q01,EXPENSES,Adminstrative,Meals and entertainment,,390000,
+2004Q01,EXPENSES,Adminstrative,Outside services,,19500000,
+2004Q01,EXPENSES,Adminstrative,Rent,,130000,
+2004Q01,EXPENSES,Adminstrative,Repairs and maintence,,10400000,
+2004Q01,EXPENSES,Adminstrative,Supplies,,520000,
+2004Q01,EXPENSES,Adminstrative,Telephone,,1.3e+07,
+2004Q01,EXPENSES,Adminstrative,Utilities,,24700000,
+2004Q01,EXPENSES,Adminstrative,Wages and salaries,,3.9e+07,
+2004Q01,EXPENSES,Adminstrative,Web site consultancy,,520000,
+2004Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,260000,
+2004Q01,EXPENSES,Adminstrative,Web site maintence,,5200,
+2004Q01,EXPENSES,Development,Patents,,78000,
+2004Q01,EXPENSES,Development,Technology Rental,,390000,
+2004Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,312000,
+2004Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,31200000,
+2004Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,520000,
+2004Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,39000,
+2004Q01,Non-Operation Income,Gifts and Dotions,,,26000,
+2004Q01,Non-Operation Income,Interest,,,78000,
+2004Q01,Non-Operation Income,Other Income,,,910,
+2004Q01,Non-Operation Income,Rental,,,1040000,
+2004Q01,Sales Revenue,Hot Blanket,,,36630,20000
+2004Q01,Sales Revenue,Kitty Box,,,137362.5,30000
+2004Q01,Sales Revenue,Maxi Dog,,,183150,20000
+2004Q01,Sales Revenue,Muis Huis,,,549450,5000
+2004Q01,Sales Revenue,Water Jug,,,915.75,2e+05
+2003Q04,Cost of Sales,Hot Blanket,,,1372.2,12000
+2003Q04,Cost of Sales,Kitty Box,,,9148,30000
+2003Q04,Cost of Sales,Maxi Dog,,,16009,15000
+2003Q04,Cost of Sales,Muis Huis,,,13722,4000
+2003Q04,Cost of Sales,Water Jug,,,91.48,180000
+2003Q04,EXPENSES,Adminstrative,Depreciation,,4.8e+07,
+2003Q04,EXPENSES,Adminstrative,Insurance,,10400000,
+2003Q04,EXPENSES,Adminstrative,Meals and entertainment,,240000,
+2003Q04,EXPENSES,Adminstrative,Outside services,,1.2e+07,
+2003Q04,EXPENSES,Adminstrative,Rent,,80000,
+2003Q04,EXPENSES,Adminstrative,Repairs and maintence,,6400000,
+2003Q04,EXPENSES,Adminstrative,Supplies,,320000,
+2003Q04,EXPENSES,Adminstrative,Telephone,,8e+06,
+2003Q04,EXPENSES,Adminstrative,Utilities,,15200000,
+2003Q04,EXPENSES,Adminstrative,Wages and salaries,,2.4e+07,
+2003Q04,EXPENSES,Adminstrative,Web site consultancy,,320000,
+2003Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,160000,
+2003Q04,EXPENSES,Adminstrative,Web site maintence,,3200,
+2003Q04,EXPENSES,Development,Patents,,48000,
+2003Q04,EXPENSES,Development,Technology Rental,,240000,
+2003Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,192000,
+2003Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,19200000,
+2003Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,320000,
+2003Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,24000,
+2003Q04,Non-Operation Income,Gifts and Dotions,,,16000,
+2003Q04,Non-Operation Income,Interest,,,48000,
+2003Q04,Non-Operation Income,Other Income,,,560,
+2003Q04,Non-Operation Income,Rental,,,640000,
+2003Q04,Sales Revenue,Hot Blanket,,,38952,20000
+2003Q04,Sales Revenue,Kitty Box,,,146070,30000
+2003Q04,Sales Revenue,Maxi Dog,,,194760,20000
+2003Q04,Sales Revenue,Muis Huis,,,584280,5000
+2003Q04,Sales Revenue,Water Jug,,,973.8,2e+05
+2003Q03,Cost of Sales,Hot Blanket,,,1562.1,12000
+2003Q03,Cost of Sales,Kitty Box,,,10414,30000
+2003Q03,Cost of Sales,Maxi Dog,,,18224.5,15000
+2003Q03,Cost of Sales,Muis Huis,,,15621,4000
+2003Q03,Cost of Sales,Water Jug,,,104.14,180000
+2003Q03,EXPENSES,Adminstrative,Depreciation,,4.2e+07,
+2003Q03,EXPENSES,Adminstrative,Insurance,,9100000,
+2003Q03,EXPENSES,Adminstrative,Meals and entertainment,,210000,
+2003Q03,EXPENSES,Adminstrative,Outside services,,10500000,
+2003Q03,EXPENSES,Adminstrative,Rent,,70000,
+2003Q03,EXPENSES,Adminstrative,Repairs and maintence,,5600000,
+2003Q03,EXPENSES,Adminstrative,Supplies,,280000,
+2003Q03,EXPENSES,Adminstrative,Telephone,,7e+06,
+2003Q03,EXPENSES,Adminstrative,Utilities,,13300000,
+2003Q03,EXPENSES,Adminstrative,Wages and salaries,,2.1e+07,
+2003Q03,EXPENSES,Adminstrative,Web site consultancy,,280000,
+2003Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,140000,
+2003Q03,EXPENSES,Adminstrative,Web site maintence,,2800,
+2003Q03,EXPENSES,Development,Patents,,42000,
+2003Q03,EXPENSES,Development,Technology Rental,,210000,
+2003Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,168000,
+2003Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,16800000,
+2003Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,280000,
+2003Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,21000,
+2003Q03,Non-Operation Income,Gifts and Dotions,,,14000,
+2003Q03,Non-Operation Income,Interest,,,42000,
+2003Q03,Non-Operation Income,Other Income,,,490,
+2003Q03,Non-Operation Income,Rental,,,560000,
+2003Q03,Sales Revenue,Hot Blanket,,,35624,20000
+2003Q03,Sales Revenue,Kitty Box,,,133590,30000
+2003Q03,Sales Revenue,Maxi Dog,,,178120,20000
+2003Q03,Sales Revenue,Muis Huis,,,534360,5000
+2003Q03,Sales Revenue,Water Jug,,,890.6,2e+05
+2003Q02,Cost of Sales,Hot Blanket,,,1734.9,12000
+2003Q02,Cost of Sales,Kitty Box,,,11566,30000
+2003Q02,Cost of Sales,Maxi Dog,,,20240.5,15000
+2003Q02,Cost of Sales,Muis Huis,,,17349,4000
+2003Q02,Cost of Sales,Water Jug,,,115.66,180000
+2003Q02,EXPENSES,Adminstrative,Depreciation,,2.1e+07,
+2003Q02,EXPENSES,Adminstrative,Insurance,,4550000,
+2003Q02,EXPENSES,Adminstrative,Meals and entertainment,,105000,
+2003Q02,EXPENSES,Adminstrative,Outside services,,5250000,
+2003Q02,EXPENSES,Adminstrative,Rent,,35000,
+2003Q02,EXPENSES,Adminstrative,Repairs and maintence,,2800000,
+2003Q02,EXPENSES,Adminstrative,Supplies,,140000,
+2003Q02,EXPENSES,Adminstrative,Telephone,,3500000,
+2003Q02,EXPENSES,Adminstrative,Utilities,,6650000,
+2003Q02,EXPENSES,Adminstrative,Wages and salaries,,10500000,
+2003Q02,EXPENSES,Adminstrative,Web site consultancy,,140000,
+2003Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,70000,
+2003Q02,EXPENSES,Adminstrative,Web site maintence,,1400,
+2003Q02,EXPENSES,Development,Patents,,21000,
+2003Q02,EXPENSES,Development,Technology Rental,,105000,
+2003Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,84000,
+2003Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,8400000,
+2003Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,140000,
+2003Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,10500,
+2003Q02,Non-Operation Income,Gifts and Dotions,,,7000,
+2003Q02,Non-Operation Income,Interest,,,21000,
+2003Q02,Non-Operation Income,Other Income,,,245,
+2003Q02,Non-Operation Income,Rental,,,280000,
+2003Q02,Sales Revenue,Hot Blanket,,,39924,20000
+2003Q02,Sales Revenue,Kitty Box,,,149715,30000
+2003Q02,Sales Revenue,Maxi Dog,,,199620,20000
+2003Q02,Sales Revenue,Muis Huis,,,598860,5000
+2003Q02,Sales Revenue,Water Jug,,,998.1,2e+05
+2003Q01,Cost of Sales,Hot Blanket,,,1635.6,12000
+2003Q01,Cost of Sales,Kitty Box,,,10904,30000
+2003Q01,Cost of Sales,Maxi Dog,,,19082,15000
+2003Q01,Cost of Sales,Muis Huis,,,16356,4000
+2003Q01,Cost of Sales,Water Jug,,,109.04,180000
+2003Q01,EXPENSES,Adminstrative,Depreciation,,1.41e+08,
+2003Q01,EXPENSES,Adminstrative,Insurance,,30550000,
+2003Q01,EXPENSES,Adminstrative,Meals and entertainment,,705000,
+2003Q01,EXPENSES,Adminstrative,Outside services,,35250000,
+2003Q01,EXPENSES,Adminstrative,Rent,,235000,
+2003Q01,EXPENSES,Adminstrative,Repairs and maintence,,18800000,
+2003Q01,EXPENSES,Adminstrative,Supplies,,940000,
+2003Q01,EXPENSES,Adminstrative,Telephone,,23500000,
+2003Q01,EXPENSES,Adminstrative,Utilities,,44650000,
+2003Q01,EXPENSES,Adminstrative,Wages and salaries,,70500000,
+2003Q01,EXPENSES,Adminstrative,Web site consultancy,,940000,
+2003Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,470000,
+2003Q01,EXPENSES,Adminstrative,Web site maintence,,9400,
+2003Q01,EXPENSES,Development,Patents,,141000,
+2003Q01,EXPENSES,Development,Technology Rental,,705000,
+2003Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,564000,
+2003Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,56400000,
+2003Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,940000,
+2003Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,70500,
+2003Q01,Non-Operation Income,Gifts and Dotions,,,47000,
+2003Q01,Non-Operation Income,Interest,,,141000,
+2003Q01,Non-Operation Income,Other Income,,,1645,
+2003Q01,Non-Operation Income,Rental,,,1880000,
+2003Q01,Sales Revenue,Hot Blanket,,,38512,20000
+2003Q01,Sales Revenue,Kitty Box,,,144420,30000
+2003Q01,Sales Revenue,Maxi Dog,,,192560,20000
+2003Q01,Sales Revenue,Muis Huis,,,577680,5000
+2003Q01,Sales Revenue,Water Jug,,,962.8,2e+05
+2002Q04,Cost of Sales,Hot Blanket,,,1399.5,12000
+2002Q04,Cost of Sales,Kitty Box,,,9330,30000
+2002Q04,Cost of Sales,Maxi Dog,,,16327.5,15000
+2002Q04,Cost of Sales,Muis Huis,,,13995,4000
+2002Q04,Cost of Sales,Water Jug,,,93.3,180000
+2002Q04,EXPENSES,Adminstrative,Depreciation,,0,
+2002Q04,EXPENSES,Adminstrative,Insurance,,0,
+2002Q04,EXPENSES,Adminstrative,Meals and entertainment,,0,
+2002Q04,EXPENSES,Adminstrative,Outside services,,0,
+2002Q04,EXPENSES,Adminstrative,Rent,,0,
+2002Q04,EXPENSES,Adminstrative,Repairs and maintence,,0,
+2002Q04,EXPENSES,Adminstrative,Supplies,,0,
+2002Q04,EXPENSES,Adminstrative,Telephone,,0,
+2002Q04,EXPENSES,Adminstrative,Utilities,,0,
+2002Q04,EXPENSES,Adminstrative,Wages and salaries,,0,
+2002Q04,EXPENSES,Adminstrative,Web site consultancy,,0,
+2002Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,0,
+2002Q04,EXPENSES,Adminstrative,Web site maintence,,0,
+2002Q04,EXPENSES,Development,Patents,,0,
+2002Q04,EXPENSES,Development,Technology Rental,,0,
+2002Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,0,
+2002Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,0,
+2002Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,0,
+2002Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,0,
+2002Q04,Non-Operation Income,Gifts and Dotions,,,0,
+2002Q04,Non-Operation Income,Interest,,,0,
+2002Q04,Non-Operation Income,Other Income,,,0,
+2002Q04,Non-Operation Income,Rental,,,0,
+2002Q04,Sales Revenue,Hot Blanket,,,9866,20000
+2002Q04,Sales Revenue,Kitty Box,,,36997.5,30000
+2002Q04,Sales Revenue,Maxi Dog,,,49330,20000
+2002Q04,Sales Revenue,Muis Huis,,,147990,5000
+2002Q04,Sales Revenue,Water Jug,,,246.65,2e+05
+2002Q03,Cost of Sales,Hot Blanket,,,110.1,12000
+2002Q03,Cost of Sales,Kitty Box,,,734,30000
+2002Q03,Cost of Sales,Maxi Dog,,,1284.5,15000
+2002Q03,Cost of Sales,Muis Huis,,,1101,4000
+2002Q03,Cost of Sales,Water Jug,,,7.34,180000
+2002Q03,EXPENSES,Adminstrative,Depreciation,,9.9e+07,
+2002Q03,EXPENSES,Adminstrative,Insurance,,21450000,
+2002Q03,EXPENSES,Adminstrative,Meals and entertainment,,495000,
+2002Q03,EXPENSES,Adminstrative,Outside services,,24750000,
+2002Q03,EXPENSES,Adminstrative,Rent,,165000,
+2002Q03,EXPENSES,Adminstrative,Repairs and maintence,,13200000,
+2002Q03,EXPENSES,Adminstrative,Supplies,,660000,
+2002Q03,EXPENSES,Adminstrative,Telephone,,16500000,
+2002Q03,EXPENSES,Adminstrative,Utilities,,31350000,
+2002Q03,EXPENSES,Adminstrative,Wages and salaries,,49500000,
+2002Q03,EXPENSES,Adminstrative,Web site consultancy,,660000,
+2002Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,330000,
+2002Q03,EXPENSES,Adminstrative,Web site maintence,,6600,
+2002Q03,EXPENSES,Development,Patents,,99000,
+2002Q03,EXPENSES,Development,Technology Rental,,495000,
+2002Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,396000,
+2002Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,39600000,
+2002Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,660000,
+2002Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,49500,
+2002Q03,Non-Operation Income,Gifts and Dotions,,,33000,
+2002Q03,Non-Operation Income,Interest,,,99000,
+2002Q03,Non-Operation Income,Other Income,,,1155,
+2002Q03,Non-Operation Income,Rental,,,1320000,
+2002Q03,Sales Revenue,Hot Blanket,,,27406,20000
+2002Q03,Sales Revenue,Kitty Box,,,102772.5,30000
+2002Q03,Sales Revenue,Maxi Dog,,,137030,20000
+2002Q03,Sales Revenue,Muis Huis,,,411090,5000
+2002Q03,Sales Revenue,Water Jug,,,685.15,2e+05
+2002Q02,Cost of Sales,Hot Blanket,,,2220,12000
+2002Q02,Cost of Sales,Kitty Box,,,14800,30000
+2002Q02,Cost of Sales,Maxi Dog,,,25900,15000
+2002Q02,Cost of Sales,Muis Huis,,,22200,4000
+2002Q02,Cost of Sales,Water Jug,,,148,180000
+2002Q02,EXPENSES,Adminstrative,Depreciation,,1.35e+08,
+2002Q02,EXPENSES,Adminstrative,Insurance,,29250000,
+2002Q02,EXPENSES,Adminstrative,Meals and entertainment,,675000,
+2002Q02,EXPENSES,Adminstrative,Outside services,,33750000,
+2002Q02,EXPENSES,Adminstrative,Rent,,225000,
+2002Q02,EXPENSES,Adminstrative,Repairs and maintence,,1.8e+07,
+2002Q02,EXPENSES,Adminstrative,Supplies,,9e+05,
+2002Q02,EXPENSES,Adminstrative,Telephone,,22500000,
+2002Q02,EXPENSES,Adminstrative,Utilities,,42750000,
+2002Q02,EXPENSES,Adminstrative,Wages and salaries,,67500000,
+2002Q02,EXPENSES,Adminstrative,Web site consultancy,,9e+05,
+2002Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,450000,
+2002Q02,EXPENSES,Adminstrative,Web site maintence,,9000,
+2002Q02,EXPENSES,Development,Patents,,135000,
+2002Q02,EXPENSES,Development,Technology Rental,,675000,
+2002Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,540000,
+2002Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,5.4e+07,
+2002Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,9e+05,
+2002Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,67500,
+2002Q02,Non-Operation Income,Gifts and Dotions,,,45000,
+2002Q02,Non-Operation Income,Interest,,,135000,
+2002Q02,Non-Operation Income,Other Income,,,1575,
+2002Q02,Non-Operation Income,Rental,,,1800000,
+2002Q02,Sales Revenue,Hot Blanket,,,17840,20000
+2002Q02,Sales Revenue,Kitty Box,,,66900,30000
+2002Q02,Sales Revenue,Maxi Dog,,,89200,20000
+2002Q02,Sales Revenue,Muis Huis,,,267600,5000
+2002Q02,Sales Revenue,Water Jug,,,446,2e+05
+2002Q01,Cost of Sales,Hot Blanket,,,918.6,12000
+2002Q01,Cost of Sales,Kitty Box,,,6124,30000
+2002Q01,Cost of Sales,Maxi Dog,,,10717,15000
+2002Q01,Cost of Sales,Muis Huis,,,9186,4000
+2002Q01,Cost of Sales,Water Jug,,,61.24,180000
+2002Q01,EXPENSES,Adminstrative,Depreciation,,3.9e+07,
+2002Q01,EXPENSES,Adminstrative,Insurance,,8450000,
+2002Q01,EXPENSES,Adminstrative,Meals and entertainment,,195000,
+2002Q01,EXPENSES,Adminstrative,Outside services,,9750000,
+2002Q01,EXPENSES,Adminstrative,Rent,,65000,
+2002Q01,EXPENSES,Adminstrative,Repairs and maintence,,5200000,
+2002Q01,EXPENSES,Adminstrative,Supplies,,260000,
+2002Q01,EXPENSES,Adminstrative,Telephone,,6500000,
+2002Q01,EXPENSES,Adminstrative,Utilities,,12350000,
+2002Q01,EXPENSES,Adminstrative,Wages and salaries,,19500000,
+2002Q01,EXPENSES,Adminstrative,Web site consultancy,,260000,
+2002Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,130000,
+2002Q01,EXPENSES,Adminstrative,Web site maintence,,2600,
+2002Q01,EXPENSES,Development,Patents,,39000,
+2002Q01,EXPENSES,Development,Technology Rental,,195000,
+2002Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,156000,
+2002Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,15600000,
+2002Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,260000,
+2002Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,19500,
+2002Q01,Non-Operation Income,Gifts and Dotions,,,13000,
+2002Q01,Non-Operation Income,Interest,,,39000,
+2002Q01,Non-Operation Income,Other Income,,,455,
+2002Q01,Non-Operation Income,Rental,,,520000,
+2002Q01,Sales Revenue,Hot Blanket,,,2564,20000
+2002Q01,Sales Revenue,Kitty Box,,,9615,30000
+2002Q01,Sales Revenue,Maxi Dog,,,12820,20000
+2002Q01,Sales Revenue,Muis Huis,,,38460,5000
+2002Q01,Sales Revenue,Water Jug,,,64.1,2e+05
+2001Q04,Cost of Sales,Hot Blanket,,,372,12000
+2001Q04,Cost of Sales,Kitty Box,,,2480,30000
+2001Q04,Cost of Sales,Maxi Dog,,,4340,15000
+2001Q04,Cost of Sales,Muis Huis,,,3720,4000
+2001Q04,Cost of Sales,Water Jug,,,24.8,180000
+2001Q04,EXPENSES,Adminstrative,Depreciation,,0,
+2001Q04,EXPENSES,Adminstrative,Insurance,,0,
+2001Q04,EXPENSES,Adminstrative,Meals and entertainment,,0,
+2001Q04,EXPENSES,Adminstrative,Outside services,,0,
+2001Q04,EXPENSES,Adminstrative,Rent,,0,
+2001Q04,EXPENSES,Adminstrative,Repairs and maintence,,0,
+2001Q04,EXPENSES,Adminstrative,Supplies,,0,
+2001Q04,EXPENSES,Adminstrative,Telephone,,0,
+2001Q04,EXPENSES,Adminstrative,Utilities,,0,
+2001Q04,EXPENSES,Adminstrative,Wages and salaries,,0,
+2001Q04,EXPENSES,Adminstrative,Web site consultancy,,0,
+2001Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,0,
+2001Q04,EXPENSES,Adminstrative,Web site maintence,,0,
+2001Q04,EXPENSES,Development,Patents,,0,
+2001Q04,EXPENSES,Development,Technology Rental,,0,
+2001Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,0,
+2001Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,0,
+2001Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,0,
+2001Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,0,
+2001Q04,Non-Operation Income,Gifts and Dotions,,,0,
+2001Q04,Non-Operation Income,Interest,,,0,
+2001Q04,Non-Operation Income,Other Income,,,0,
+2001Q04,Non-Operation Income,Rental,,,0,
+2001Q04,Sales Revenue,Hot Blanket,,,350,20000
+2001Q04,Sales Revenue,Kitty Box,,,1312.5,30000
+2001Q04,Sales Revenue,Maxi Dog,,,1750,20000
+2001Q04,Sales Revenue,Muis Huis,,,5250,5000
+2001Q04,Sales Revenue,Water Jug,,,8.75,2e+05
+2001Q03,Cost of Sales,Hot Blanket,,,1565.4,12000
+2001Q03,Cost of Sales,Kitty Box,,,10436,30000
+2001Q03,Cost of Sales,Maxi Dog,,,18263,15000
+2001Q03,Cost of Sales,Muis Huis,,,15654,4000
+2001Q03,Cost of Sales,Water Jug,,,104.36,180000
+2001Q03,EXPENSES,Adminstrative,Depreciation,,1.05e+08,
+2001Q03,EXPENSES,Adminstrative,Insurance,,22750000,
+2001Q03,EXPENSES,Adminstrative,Meals and entertainment,,525000,
+2001Q03,EXPENSES,Adminstrative,Outside services,,26250000,
+2001Q03,EXPENSES,Adminstrative,Rent,,175000,
+2001Q03,EXPENSES,Adminstrative,Repairs and maintence,,1.4e+07,
+2001Q03,EXPENSES,Adminstrative,Supplies,,7e+05,
+2001Q03,EXPENSES,Adminstrative,Telephone,,17500000,
+2001Q03,EXPENSES,Adminstrative,Utilities,,33250000,
+2001Q03,EXPENSES,Adminstrative,Wages and salaries,,52500000,
+2001Q03,EXPENSES,Adminstrative,Web site consultancy,,7e+05,
+2001Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,350000,
+2001Q03,EXPENSES,Adminstrative,Web site maintence,,7000,
+2001Q03,EXPENSES,Development,Patents,,105000,
+2001Q03,EXPENSES,Development,Technology Rental,,525000,
+2001Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,420000,
+2001Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,4.2e+07,
+2001Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,7e+05,
+2001Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,52500,
+2001Q03,Non-Operation Income,Gifts and Dotions,,,35000,
+2001Q03,Non-Operation Income,Interest,,,105000,
+2001Q03,Non-Operation Income,Other Income,,,1225,
+2001Q03,Non-Operation Income,Rental,,,1400000,
+2001Q03,Sales Revenue,Hot Blanket,,,32258,20000
+2001Q03,Sales Revenue,Kitty Box,,,120967.5,30000
+2001Q03,Sales Revenue,Maxi Dog,,,161290,20000
+2001Q03,Sales Revenue,Muis Huis,,,483870,5000
+2001Q03,Sales Revenue,Water Jug,,,806.45,2e+05
+2001Q02,Cost of Sales,Hot Blanket,,,155.4,12000
+2001Q02,Cost of Sales,Kitty Box,,,1036,30000
+2001Q02,Cost of Sales,Maxi Dog,,,1813,15000
+2001Q02,Cost of Sales,Muis Huis,,,1554,4000
+2001Q02,Cost of Sales,Water Jug,,,10.36,180000
+2001Q02,EXPENSES,Adminstrative,Depreciation,,1.5e+07,
+2001Q02,EXPENSES,Adminstrative,Insurance,,3250000,
+2001Q02,EXPENSES,Adminstrative,Meals and entertainment,,75000,
+2001Q02,EXPENSES,Adminstrative,Outside services,,3750000,
+2001Q02,EXPENSES,Adminstrative,Rent,,25000,
+2001Q02,EXPENSES,Adminstrative,Repairs and maintence,,2e+06,
+2001Q02,EXPENSES,Adminstrative,Supplies,,1e+05,
+2001Q02,EXPENSES,Adminstrative,Telephone,,2500000,
+2001Q02,EXPENSES,Adminstrative,Utilities,,4750000,
+2001Q02,EXPENSES,Adminstrative,Wages and salaries,,7500000,
+2001Q02,EXPENSES,Adminstrative,Web site consultancy,,1e+05,
+2001Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,50000,
+2001Q02,EXPENSES,Adminstrative,Web site maintence,,1000,
+2001Q02,EXPENSES,Development,Patents,,15000,
+2001Q02,EXPENSES,Development,Technology Rental,,75000,
+2001Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,60000,
+2001Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,6e+06,
+2001Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,1e+05,
+2001Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,7500,
+2001Q02,Non-Operation Income,Gifts and Dotions,,,5000,
+2001Q02,Non-Operation Income,Interest,,,15000,
+2001Q02,Non-Operation Income,Other Income,,,175,
+2001Q02,Non-Operation Income,Rental,,,2e+05,
+2001Q02,Sales Revenue,Hot Blanket,,,34222,20000
+2001Q02,Sales Revenue,Kitty Box,,,128332.5,30000
+2001Q02,Sales Revenue,Maxi Dog,,,171110,20000
+2001Q02,Sales Revenue,Muis Huis,,,513330,5000
+2001Q02,Sales Revenue,Water Jug,,,855.55,2e+05
+2001Q01,Cost of Sales,Hot Blanket,,,109.8,12000
+2001Q01,Cost of Sales,Kitty Box,,,732,30000
+2001Q01,Cost of Sales,Maxi Dog,,,1281,15000
+2001Q01,Cost of Sales,Muis Huis,,,1098,4000
+2001Q01,Cost of Sales,Water Jug,,,7.32,180000
+2001Q01,EXPENSES,Adminstrative,Depreciation,,6e+06,
+2001Q01,EXPENSES,Adminstrative,Insurance,,1300000,
+2001Q01,EXPENSES,Adminstrative,Meals and entertainment,,30000,
+2001Q01,EXPENSES,Adminstrative,Outside services,,1500000,
+2001Q01,EXPENSES,Adminstrative,Rent,,10000,
+2001Q01,EXPENSES,Adminstrative,Repairs and maintence,,8e+05,
+2001Q01,EXPENSES,Adminstrative,Supplies,,40000,
+2001Q01,EXPENSES,Adminstrative,Telephone,,1e+06,
+2001Q01,EXPENSES,Adminstrative,Utilities,,1900000,
+2001Q01,EXPENSES,Adminstrative,Wages and salaries,,3e+06,
+2001Q01,EXPENSES,Adminstrative,Web site consultancy,,40000,
+2001Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,20000,
+2001Q01,EXPENSES,Adminstrative,Web site maintence,,400,
+2001Q01,EXPENSES,Development,Patents,,6000,
+2001Q01,EXPENSES,Development,Technology Rental,,30000,
+2001Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,24000,
+2001Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,2400000,
+2001Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,40000,
+2001Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,3000,
+2001Q01,Non-Operation Income,Gifts and Dotions,,,2000,
+2001Q01,Non-Operation Income,Interest,,,6000,
+2001Q01,Non-Operation Income,Other Income,,,70,
+2001Q01,Non-Operation Income,Rental,,,80000,
+2001Q01,Sales Revenue,Hot Blanket,,,2652,20000
+2001Q01,Sales Revenue,Kitty Box,,,9945,30000
+2001Q01,Sales Revenue,Maxi Dog,,,13260,20000
+2001Q01,Sales Revenue,Muis Huis,,,39780,5000
+2001Q01,Sales Revenue,Water Jug,,,66.3,2e+05
+2000Q04,Cost of Sales,Hot Blanket,,,2065.8,12000
+2000Q04,Cost of Sales,Kitty Box,,,13772,30000
+2000Q04,Cost of Sales,Maxi Dog,,,24101,15000
+2000Q04,Cost of Sales,Muis Huis,,,20658,4000
+2000Q04,Cost of Sales,Water Jug,,,137.72,180000
+2000Q04,EXPENSES,Adminstrative,Depreciation,,6e+06,
+2000Q04,EXPENSES,Adminstrative,Insurance,,1300000,
+2000Q04,EXPENSES,Adminstrative,Meals and entertainment,,30000,
+2000Q04,EXPENSES,Adminstrative,Outside services,,1500000,
+2000Q04,EXPENSES,Adminstrative,Rent,,10000,
+2000Q04,EXPENSES,Adminstrative,Repairs and maintence,,8e+05,
+2000Q04,EXPENSES,Adminstrative,Supplies,,40000,
+2000Q04,EXPENSES,Adminstrative,Telephone,,1e+06,
+2000Q04,EXPENSES,Adminstrative,Utilities,,1900000,
+2000Q04,EXPENSES,Adminstrative,Wages and salaries,,3e+06,
+2000Q04,EXPENSES,Adminstrative,Web site consultancy,,40000,
+2000Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,20000,
+2000Q04,EXPENSES,Adminstrative,Web site maintence,,400,
+2000Q04,EXPENSES,Development,Patents,,6000,
+2000Q04,EXPENSES,Development,Technology Rental,,30000,
+2000Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,24000,
+2000Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,2400000,
+2000Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,40000,
+2000Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,3000,
+2000Q04,Non-Operation Income,Gifts and Dotions,,,2000,
+2000Q04,Non-Operation Income,Interest,,,6000,
+2000Q04,Non-Operation Income,Other Income,,,70,
+2000Q04,Non-Operation Income,Rental,,,80000,
+2000Q04,Sales Revenue,Hot Blanket,,,17194,20000
+2000Q04,Sales Revenue,Kitty Box,,,64477.5,30000
+2000Q04,Sales Revenue,Maxi Dog,,,85970,20000
+2000Q04,Sales Revenue,Muis Huis,,,257910,5000
+2000Q04,Sales Revenue,Water Jug,,,429.85,2e+05
+2000Q03,Cost of Sales,Hot Blanket,,,2271.6,12000
+2000Q03,Cost of Sales,Kitty Box,,,15144,30000
+2000Q03,Cost of Sales,Maxi Dog,,,26502,15000
+2000Q03,Cost of Sales,Muis Huis,,,22716,4000
+2000Q03,Cost of Sales,Water Jug,,,151.44,180000
+2000Q03,EXPENSES,Adminstrative,Depreciation,,1.8e+07,
+2000Q03,EXPENSES,Adminstrative,Insurance,,3900000,
+2000Q03,EXPENSES,Adminstrative,Meals and entertainment,,90000,
+2000Q03,EXPENSES,Adminstrative,Outside services,,4500000,
+2000Q03,EXPENSES,Adminstrative,Rent,,30000,
+2000Q03,EXPENSES,Adminstrative,Repairs and maintence,,2400000,
+2000Q03,EXPENSES,Adminstrative,Supplies,,120000,
+2000Q03,EXPENSES,Adminstrative,Telephone,,3e+06,
+2000Q03,EXPENSES,Adminstrative,Utilities,,5700000,
+2000Q03,EXPENSES,Adminstrative,Wages and salaries,,9e+06,
+2000Q03,EXPENSES,Adminstrative,Web site consultancy,,120000,
+2000Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,60000,
+2000Q03,EXPENSES,Adminstrative,Web site maintence,,1200,
+2000Q03,EXPENSES,Development,Patents,,18000,
+2000Q03,EXPENSES,Development,Technology Rental,,90000,
+2000Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,72000,
+2000Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,7200000,
+2000Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,120000,
+2000Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,9000,
+2000Q03,Non-Operation Income,Gifts and Dotions,,,6000,
+2000Q03,Non-Operation Income,Interest,,,18000,
+2000Q03,Non-Operation Income,Other Income,,,210,
+2000Q03,Non-Operation Income,Rental,,,240000,
+2000Q03,Sales Revenue,Hot Blanket,,,16976,20000
+2000Q03,Sales Revenue,Kitty Box,,,63660,30000
+2000Q03,Sales Revenue,Maxi Dog,,,84880,20000
+2000Q03,Sales Revenue,Muis Huis,,,254640,5000
+2000Q03,Sales Revenue,Water Jug,,,424.4,2e+05
+2000Q02,Cost of Sales,Hot Blanket,,,485.7,12000
+2000Q02,Cost of Sales,Kitty Box,,,3238,30000
+2000Q02,Cost of Sales,Maxi Dog,,,5666.5,15000
+2000Q02,Cost of Sales,Muis Huis,,,4857,4000
+2000Q02,Cost of Sales,Water Jug,,,32.38,180000
+2000Q02,EXPENSES,Adminstrative,Depreciation,,1.44e+08,
+2000Q02,EXPENSES,Adminstrative,Insurance,,31200000,
+2000Q02,EXPENSES,Adminstrative,Meals and entertainment,,720000,
+2000Q02,EXPENSES,Adminstrative,Outside services,,3.6e+07,
+2000Q02,EXPENSES,Adminstrative,Rent,,240000,
+2000Q02,EXPENSES,Adminstrative,Repairs and maintence,,19200000,
+2000Q02,EXPENSES,Adminstrative,Supplies,,960000,
+2000Q02,EXPENSES,Adminstrative,Telephone,,2.4e+07,
+2000Q02,EXPENSES,Adminstrative,Utilities,,45600000,
+2000Q02,EXPENSES,Adminstrative,Wages and salaries,,7.2e+07,
+2000Q02,EXPENSES,Adminstrative,Web site consultancy,,960000,
+2000Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,480000,
+2000Q02,EXPENSES,Adminstrative,Web site maintence,,9600,
+2000Q02,EXPENSES,Development,Patents,,144000,
+2000Q02,EXPENSES,Development,Technology Rental,,720000,
+2000Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,576000,
+2000Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,57600000,
+2000Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,960000,
+2000Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,72000,
+2000Q02,Non-Operation Income,Gifts and Dotions,,,48000,
+2000Q02,Non-Operation Income,Interest,,,144000,
+2000Q02,Non-Operation Income,Other Income,,,1680,
+2000Q02,Non-Operation Income,Rental,,,1920000,
+2000Q02,Sales Revenue,Hot Blanket,,,6712,20000
+2000Q02,Sales Revenue,Kitty Box,,,25170,30000
+2000Q02,Sales Revenue,Maxi Dog,,,33560,20000
+2000Q02,Sales Revenue,Muis Huis,,,100680,5000
+2000Q02,Sales Revenue,Water Jug,,,167.8,2e+05
+2000Q01,Cost of Sales,Hot Blanket,,,1938,12000
+2000Q01,Cost of Sales,Kitty Box,,,12920,30000
+2000Q01,Cost of Sales,Maxi Dog,,,22610,15000
+2000Q01,Cost of Sales,Muis Huis,,,19380,4000
+2000Q01,Cost of Sales,Water Jug,,,129.2,180000
+2000Q01,EXPENSES,Adminstrative,Depreciation,,1.35e+08,
+2000Q01,EXPENSES,Adminstrative,Insurance,,29250000,
+2000Q01,EXPENSES,Adminstrative,Meals and entertainment,,675000,
+2000Q01,EXPENSES,Adminstrative,Outside services,,33750000,
+2000Q01,EXPENSES,Adminstrative,Rent,,225000,
+2000Q01,EXPENSES,Adminstrative,Repairs and maintence,,1.8e+07,
+2000Q01,EXPENSES,Adminstrative,Supplies,,9e+05,
+2000Q01,EXPENSES,Adminstrative,Telephone,,22500000,
+2000Q01,EXPENSES,Adminstrative,Utilities,,42750000,
+2000Q01,EXPENSES,Adminstrative,Wages and salaries,,67500000,
+2000Q01,EXPENSES,Adminstrative,Web site consultancy,,9e+05,
+2000Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,450000,
+2000Q01,EXPENSES,Adminstrative,Web site maintence,,9000,
+2000Q01,EXPENSES,Development,Patents,,135000,
+2000Q01,EXPENSES,Development,Technology Rental,,675000,
+2000Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,540000,
+2000Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,5.4e+07,
+2000Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,9e+05,
+2000Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,67500,
+2000Q01,Non-Operation Income,Gifts and Dotions,,,45000,
+2000Q01,Non-Operation Income,Interest,,,135000,
+2000Q01,Non-Operation Income,Other Income,,,1575,
+2000Q01,Non-Operation Income,Rental,,,1800000,
+2000Q01,Sales Revenue,Hot Blanket,,,23224,20000
+2000Q01,Sales Revenue,Kitty Box,,,87090,30000
+2000Q01,Sales Revenue,Maxi Dog,,,116120,20000
+2000Q01,Sales Revenue,Muis Huis,,,348360,5000
+2000Q01,Sales Revenue,Water Jug,,,580.6,2e+05
+1999Q04,Cost of Sales,Hot Blanket,,,1785.6,12000
+1999Q04,Cost of Sales,Kitty Box,,,11904,30000
+1999Q04,Cost of Sales,Maxi Dog,,,20832,15000
+1999Q04,Cost of Sales,Muis Huis,,,17856,4000
+1999Q04,Cost of Sales,Water Jug,,,119.04,180000
+1999Q04,EXPENSES,Adminstrative,Depreciation,,5.7e+07,
+1999Q04,EXPENSES,Adminstrative,Insurance,,12350000,
+1999Q04,EXPENSES,Adminstrative,Meals and entertainment,,285000,
+1999Q04,EXPENSES,Adminstrative,Outside services,,14250000,
+1999Q04,EXPENSES,Adminstrative,Rent,,95000,
+1999Q04,EXPENSES,Adminstrative,Repairs and maintence,,7600000,
+1999Q04,EXPENSES,Adminstrative,Supplies,,380000,
+1999Q04,EXPENSES,Adminstrative,Telephone,,9500000,
+1999Q04,EXPENSES,Adminstrative,Utilities,,18050000,
+1999Q04,EXPENSES,Adminstrative,Wages and salaries,,28500000,
+1999Q04,EXPENSES,Adminstrative,Web site consultancy,,380000,
+1999Q04,EXPENSES,Adminstrative,Web site launch and Web Hosting,,190000,
+1999Q04,EXPENSES,Adminstrative,Web site maintence,,3800,
+1999Q04,EXPENSES,Development,Patents,,57000,
+1999Q04,EXPENSES,Development,Technology Rental,,285000,
+1999Q04,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,228000,
+1999Q04,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,22800000,
+1999Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,380000,
+1999Q04,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,28500,
+1999Q04,Non-Operation Income,Gifts and Dotions,,,19000,
+1999Q04,Non-Operation Income,Interest,,,57000,
+1999Q04,Non-Operation Income,Other Income,,,665,
+1999Q04,Non-Operation Income,Rental,,,760000,
+1999Q04,Sales Revenue,Hot Blanket,,,29538,20000
+1999Q04,Sales Revenue,Kitty Box,,,110767.5,30000
+1999Q04,Sales Revenue,Maxi Dog,,,147690,20000
+1999Q04,Sales Revenue,Muis Huis,,,443070,5000
+1999Q04,Sales Revenue,Water Jug,,,738.45,2e+05
+1999Q03,Cost of Sales,Hot Blanket,,,2838.6,12000
+1999Q03,Cost of Sales,Kitty Box,,,18924,30000
+1999Q03,Cost of Sales,Maxi Dog,,,33117,15000
+1999Q03,Cost of Sales,Muis Huis,,,28386,4000
+1999Q03,Cost of Sales,Water Jug,,,189.24,180000
+1999Q03,EXPENSES,Adminstrative,Depreciation,,4.8e+07,
+1999Q03,EXPENSES,Adminstrative,Insurance,,10400000,
+1999Q03,EXPENSES,Adminstrative,Meals and entertainment,,240000,
+1999Q03,EXPENSES,Adminstrative,Outside services,,1.2e+07,
+1999Q03,EXPENSES,Adminstrative,Rent,,80000,
+1999Q03,EXPENSES,Adminstrative,Repairs and maintence,,6400000,
+1999Q03,EXPENSES,Adminstrative,Supplies,,320000,
+1999Q03,EXPENSES,Adminstrative,Telephone,,8e+06,
+1999Q03,EXPENSES,Adminstrative,Utilities,,15200000,
+1999Q03,EXPENSES,Adminstrative,Wages and salaries,,2.4e+07,
+1999Q03,EXPENSES,Adminstrative,Web site consultancy,,320000,
+1999Q03,EXPENSES,Adminstrative,Web site launch and Web Hosting,,160000,
+1999Q03,EXPENSES,Adminstrative,Web site maintence,,3200,
+1999Q03,EXPENSES,Development,Patents,,48000,
+1999Q03,EXPENSES,Development,Technology Rental,,240000,
+1999Q03,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,192000,
+1999Q03,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,19200000,
+1999Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,320000,
+1999Q03,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,24000,
+1999Q03,Non-Operation Income,Gifts and Dotions,,,16000,
+1999Q03,Non-Operation Income,Interest,,,48000,
+1999Q03,Non-Operation Income,Other Income,,,560,
+1999Q03,Non-Operation Income,Rental,,,640000,
+1999Q03,Sales Revenue,Hot Blanket,,,10838,20000
+1999Q03,Sales Revenue,Kitty Box,,,40642.5,30000
+1999Q03,Sales Revenue,Maxi Dog,,,54190,20000
+1999Q03,Sales Revenue,Muis Huis,,,162570,5000
+1999Q03,Sales Revenue,Water Jug,,,270.95,2e+05
+1999Q02,Cost of Sales,Hot Blanket,,,2101.2,12000
+1999Q02,Cost of Sales,Kitty Box,,,14008,30000
+1999Q02,Cost of Sales,Maxi Dog,,,24514,15000
+1999Q02,Cost of Sales,Muis Huis,,,21012,4000
+1999Q02,Cost of Sales,Water Jug,,,140.08,180000
+1999Q02,EXPENSES,Adminstrative,Depreciation,,1.26e+08,
+1999Q02,EXPENSES,Adminstrative,Insurance,,27300000,
+1999Q02,EXPENSES,Adminstrative,Meals and entertainment,,630000,
+1999Q02,EXPENSES,Adminstrative,Outside services,,31500000,
+1999Q02,EXPENSES,Adminstrative,Rent,,210000,
+1999Q02,EXPENSES,Adminstrative,Repairs and maintence,,16800000,
+1999Q02,EXPENSES,Adminstrative,Supplies,,840000,
+1999Q02,EXPENSES,Adminstrative,Telephone,,2.1e+07,
+1999Q02,EXPENSES,Adminstrative,Utilities,,39900000,
+1999Q02,EXPENSES,Adminstrative,Wages and salaries,,6.3e+07,
+1999Q02,EXPENSES,Adminstrative,Web site consultancy,,840000,
+1999Q02,EXPENSES,Adminstrative,Web site launch and Web Hosting,,420000,
+1999Q02,EXPENSES,Adminstrative,Web site maintence,,8400,
+1999Q02,EXPENSES,Development,Patents,,126000,
+1999Q02,EXPENSES,Development,Technology Rental,,630000,
+1999Q02,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,504000,
+1999Q02,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,50400000,
+1999Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,840000,
+1999Q02,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,63000,
+1999Q02,Non-Operation Income,Gifts and Dotions,,,42000,
+1999Q02,Non-Operation Income,Interest,,,126000,
+1999Q02,Non-Operation Income,Other Income,,,1470,
+1999Q02,Non-Operation Income,Rental,,,1680000,
+1999Q02,Sales Revenue,Hot Blanket,,,11254,20000
+1999Q02,Sales Revenue,Kitty Box,,,42202.5,30000
+1999Q02,Sales Revenue,Maxi Dog,,,56270,20000
+1999Q02,Sales Revenue,Muis Huis,,,168810,5000
+1999Q02,Sales Revenue,Water Jug,,,281.35,2e+05
+1999Q01,Cost of Sales,Hot Blanket,,,849.9,12000
+1999Q01,Cost of Sales,Kitty Box,,,5666,30000
+1999Q01,Cost of Sales,Maxi Dog,,,9915.5,15000
+1999Q01,Cost of Sales,Muis Huis,,,8499,4000
+1999Q01,Cost of Sales,Water Jug,,,56.66,180000
+1999Q01,EXPENSES,Adminstrative,Depreciation,,1.5e+07,
+1999Q01,EXPENSES,Adminstrative,Insurance,,3250000,
+1999Q01,EXPENSES,Adminstrative,Meals and entertainment,,75000,
+1999Q01,EXPENSES,Adminstrative,Outside services,,3750000,
+1999Q01,EXPENSES,Adminstrative,Rent,,25000,
+1999Q01,EXPENSES,Adminstrative,Repairs and maintence,,2e+06,
+1999Q01,EXPENSES,Adminstrative,Supplies,,1e+05,
+1999Q01,EXPENSES,Adminstrative,Telephone,,2500000,
+1999Q01,EXPENSES,Adminstrative,Utilities,,4750000,
+1999Q01,EXPENSES,Adminstrative,Wages and salaries,,7500000,
+1999Q01,EXPENSES,Adminstrative,Web site consultancy,,1e+05,
+1999Q01,EXPENSES,Adminstrative,Web site launch and Web Hosting,,50000,
+1999Q01,EXPENSES,Adminstrative,Web site maintence,,1000,
+1999Q01,EXPENSES,Development,Patents,,15000,
+1999Q01,EXPENSES,Development,Technology Rental,,75000,
+1999Q01,EXPENSES,Non-Recurring Expenses,Rewards and Gifts Given,,60000,
+1999Q01,EXPENSES,Non-Recurring Expenses,Software and Hardware Equipments,,6e+06,
+1999Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Advertising,1e+05,
+1999Q01,EXPENSES,Operating Expenses,Marketing and Advertising,Direct marketing,7500,
+1999Q01,Non-Operation Income,Gifts and Dotions,,,5000,
+1999Q01,Non-Operation Income,Interest,,,15000,
+1999Q01,Non-Operation Income,Other Income,,,175,
+1999Q01,Non-Operation Income,Rental,,,2e+05,
+1999Q01,Sales Revenue,Hot Blanket,,,16394,20000
+1999Q01,Sales Revenue,Kitty Box,,,61477.5,30000
+1999Q01,Sales Revenue,Maxi Dog,,,81970,20000
+1999Q01,Sales Revenue,Muis Huis,,,245910,5000
+1999Q01,Sales Revenue,Water Jug,,,409.85,2e+05

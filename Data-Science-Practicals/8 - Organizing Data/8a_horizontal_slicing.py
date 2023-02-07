@@ -57,7 +57,7 @@ DimPersonIndex.to_sql(sTable, conn2, if_exists="replace")
 sSQL="SELECT * FROM [Dim-BMI-Horizontal];"
 PersonFrame2=pd.read_sql_query(sSQL, conn2)
 
-PersonFrame2.shape
+print(PersonFrame2)
 
 print('Full Data Set (Rows)   :', PersonFrame0.shape[0])
 print('Full Data Set (Columns):', PersonFrame0.shape[1])
