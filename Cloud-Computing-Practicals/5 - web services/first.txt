@@ -1,0 +1,38 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package Client;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author saumi
+ */
+public class first {
+
+    public static void main(String [] args)
+    {   
+        Scanner sc= new Scanner(System.in);
+        Client.CalculatorWS_Service service = new Client.CalculatorWS_Service();
+        Client.CalculatorWS port = service.getCalculatorWSPort();
+        System.out.println("Enter first value:");
+        int first= sc.nextInt();
+        System.out.println("Enter second value:");
+        int second= sc.nextInt();
+        System.out.println("Enter Operator value:");
+        String opr= sc.next();
+        char op= opr.charAt(0);
+        System.out.println( port.cal(first, second, op));
+    }
+
+    
+    private static String cal(int first, int second, int op) {
+        Client.CalculatorWS_Service service = new Client.CalculatorWS_Service();
+        Client.CalculatorWS port = service.getCalculatorWSPort();
+        return port.cal(first, second, op);
+    }
+    
+}
