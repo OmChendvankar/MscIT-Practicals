@@ -1,0 +1,92 @@
+#Configure and implement Hive 
+sudo rm -r -f /usr/local/hive
+# 1. Start Hadoop and check it using jps command
+jps
+
+# 2. Go to /usr/local & extract the hive tar file from downloads
+cd /usr/local
+
+sudo tar xvzf /home/udit/Downloads/apache-hive-3.1.2-bin.tar.gz 
+sudo mv apache-hive-3.1.2-bin/ hive
+sudo chmod 777 hive
+
+# 3. Add the HIVE_HOME path in the bashrc file.
+cd /home/hduser
+sudo nano ~/.bashrc
+
+#add following lines 
+export HIVE_HOME=/usr/local/hive
+export PATH=$PATH:$HIVE_HOME/bin
+
+source ~/.bashrc
+
+# 4. Change the directory to /usr/local/hive/bin 
+     and add the following lines in hive-config.sh
+cd /usr/local/hive/bin     
+sudo nano hive-config.sh
+export HADOOP_HOME=/usr/local/hadoop
+
+# 5. Hive is installed now, but 
+     we need to first create some directories in HDFS for Hive to store its data
+
+hdfs dfs -mkdir /tmp
+hdfs dfs -chmod g+w /tmp
+hdfs dfs -mkdir -p /user/hive/warehouse
+hdfs dfs -chmod g+w /user/hive/warehouse
+sudo chmod 777 /usr/local/hive/
+
+# 6. Now we need to initialize the derby database.
+cd /usr/local/hive/
+cd /$HIVE_HOME/bin
+
+$HIVE_HOME/bin/schematool -initSchema -dbType derby
+
+# 7. There is compatibility error between Hadoop and Hive guava versions.
+     To fix the NoSuchMethodError, Locate the guava jar file in the Hive lib directory
+     Remove the guava jar file from /hive/lib
+
+sudo rm lib/guava-19.0.jar
+
+# Copy the guava jar from hadoop lib to hive lib directory
+sudo cp $HADOOP_HOME/share/hadoop/common/lib/guava-27.0-jre.jar /usr/local/hive/lib/
+
+# Once copied, Use the schematool command once again to initiate the Derby database.
+cd /$HIVE_HOME/bin
+schematool  -initSchema -dbType derby
+$HIVE_HOME/bin/schematool -initSchema -dbType derby
+
+
+# 8. Start the Hive command-line interface using the ‘hive’ command
+hive
+show database
+
+# 9. Create a database and a table in a hive
+create database company;
+show databases;
+
+create table employees (id int, name string, country string, department string, salary int) row format delimited fields terminated by ' ';
+
+# 10. Load the data into a table from a file
+sudo nano employees.txt
+
+# Enter few rows without spaces
+nikhil faculty udit 45000
+subodh industry l&t 80000
+
+load data local inpath "/home/hduser/employees.txt" into table employees;
+
+# 11. Display the loaded data
+select * from employees
+
+# 12. Exit hive using ‘exit;’ command;
+exit
+
+
+
+
+
+
+
+
+
+

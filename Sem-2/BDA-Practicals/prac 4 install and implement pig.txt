@@ -1,0 +1,51 @@
+# Implement PIG
+
+
+# 1. Start Hadoop and check it using jps command
+jps
+
+# 2. Go to /usr/local  
+cd /usr/local
+
+# 3. extract the pig tar file
+sudo tar xzvf /home/udit/Downloads/pig-0.17.0-src.tar.gz 
+sudo mv pig-0.17.0-src/  pig
+
+# 4. Add the Pig environment variables in bashrc and 
+     check the pig version to verify the installation.
+sudo nano ~/.bashrc     
+
+# Add the following lines
+export PIG_HOME=/usr/local/pig
+export PATH=$PATH:$PIG_HOME/bin
+export PIG_CLASSPATH=$HADOOP_HOME/conf
+
+# Execute the changes
+source ~/.bashrc
+
+# 5. Create a database file.
+sudo nano products.txt
+
+#Enter some text like (without spaces)
+1,phone,45,mumbai,2023
+2,laptop,44,pune,2022
+#save & exit
+
+# 6. Run the pig in Local mode (pig can access data present only in local file system, eg the product file) Start pig using following command:
+pig -x local
+product = LOAD 'products.txt' USING PigStorage(',');
+dump product;
+quit
+
+# 7. Running in HDFS mode (pig can access data on HDFS)
+First we need to move products.txt to HDFS
+hdfs dfs -put /usr/local/products.txt /
+
+# 8. Start pig using pig command
+pig
+product = LOAD 'hdfs://localhost:54310/products.txt' USING PigStorage(',');
+dump product;
+quit;
+
+
+

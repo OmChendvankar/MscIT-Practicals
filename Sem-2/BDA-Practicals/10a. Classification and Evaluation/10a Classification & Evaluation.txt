@@ -1,0 +1,17 @@
+ install.packages('e1071')
+#Installing package into ‘C:/Users/NGT/Documents/R/win-library/3.6’ (as ‘lib’ is unspecified)
+library(e1071)
+ data=read.csv('C:/BDA R Pracs 16 June 2023/diabetes.csv')
+ View(data)
+ head(data)
+ nbsmodel=naiveBayes(Outcome ~.,data=data)
+ nbsmodel
+
+ nbspred=predict(nbsmodel,data)
+ nbspred
+ tt=table(nbspred,data$Outcome)
+ tt
+ acc_test=sum(diag(tt)/sum(tt))
+ acc_test
+
+
