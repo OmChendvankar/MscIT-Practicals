@@ -1,0 +1,180 @@
+Router R1
+hostname R1
+interface Loopback 0
+description R1 LAN
+ip address 192.168.1.1 255.255.255.0
+interface Serial0/0/0
+description R1 --> ISP1
+ip address 209.165.201.2 255.255.255.252
+clock rate 128000
+bandwidth 128
+no shutdown
+interface Serial0/0/1
+description R1 --> ISP2
+ip address 209.165.202.130 255.255.255.252
+bandwidth 128
+no shutdown
+
+
+Router ISP1 (R2)
+hostname ISP1
+interface Loopback0
+description Simulated Internet Web Server
+ip address 209.165.200.254 255.255.255.255
+interface Loopback1
+description ISP1 DNS Server
+ip address 209.165.201.30 255.255.255.255
+interface Serial0/0/0
+description ISP1 --> R1
+ip address 209.165.201.1 255.255.255.252
+bandwidth 128
+no shutdown
+interface Serial0/0/1
+description ISP1 --> ISP2
+ip address 209.165.200.225 255.255.255.252
+clock rate 128000
+bandwidth 128
+no shutdown
+
+
+Router ISP2 (R3)
+hostname ISP2
+interface Loopback0
+description Simulated Internet Web Server
+ip address 209.165.200.254 255.255.255.255
+interface Loopback1
+description ISP2 DNS Server
+ip address 209.165.202.158 255.255.255.255
+interface Serial0/0/0
+description ISP2 --> R1
+ip address 209.165.202.129 255.255.255.252
+clock rate 128000
+bandwidth 128
+no shutdown
+interface Serial0/0/1
+description ISP2 --> ISP1
+ip address 209.165.200.226 255.255.255.252
+bandwidth 128
+no shutdown
+
+
+R1# show interfaces description | include up
+Se0/0/0 up up R1 --> ISP1
+Se0/0/1 up up R1 --> ISP2
+Lo0 up up R1 LAN
+R1#
+
+
+Router R1
+R1(config)# ip route 0.0.0.0 0.0.0.0 209.165.201.1
+R1(config)#
+
+Router ISP1 (R2)
+ISP1(config)# router eigrp 1
+ISP1(config-router)# network 209.165.200.224 0.0.0.3
+ISP1(config-router)# network 209.165.201.0 0.0.0.31
+ISP1(config-router)# no auto-summary
+ISP1(config-router)# exit
+ISP1(config)#
+ISP1(config-router)# ip route 192.168.1.0 255.255.255.0 209.165.201.2
+ISP1(config)#
+
+
+Router ISP2 (R3)
+ISP2(config)# router eigrp 1
+ISP2(config-router)# network 209.165.200.224 0.0.0.3
+ISP2(config-router)# network 209.165.202.128 0.0.0.31
+ISP2(config-router)# no auto-summary
+ISP2(config-router)# exit
+ISP2(config)#
+ISP2(config)# ip route 192.168.1.0 255.255.255.0 209.165.202.130
+ISP2(config)#
+
+
+foreach address {
+209.165.200.254
+209.165.201.30
+209.165.202.158
+} {
+ping $address source 192.168.1.1
+}
+
+foreach address {
+209.165.200.254
+209.165.201.30
+209.165.202.158
+} {
+trace $address source 192.168.1.1
+}
+
+R1(config)# ip sla 11
+R1(config-ip-sla)# icmp-echo 209.165.201.30
+R1(config-ip-sla-echo)# frequency 10
+R1(config-ip-sla-echo)# exit
+R1(config)#
+R1(config)# ip sla schedule 11 life forever start-time now
+R1(config)#
+
+R1# show ip sla configuration 11
+IP SLAs Infrastructure Engine-III
+Entry number: 11
+
+R1# show ip sla statistics
+IPSLAs Latest Operation Statistics
+IPSLA operation id: 11
+
+R1(config)# ip sla 22
+R1(config-ip-sla)# icmp-echo 209.165.202.158
+R1(config-ip-sla-echo)# frequency 10
+R1(config-ip-sla-echo)# exit
+R1(config)#
+R1(config)# ip sla schedule 22 life forever start-time now
+R1(config)# end
+R1#
+
+R1# show ip sla configuration 22
+IP SLAs Infrastructure Engine-III
+Entry number: 22
+
+R1# show ip sla configuration 22
+IP SLAs, Infrastructure Engine-II.
+Entry number: 22
+
+R1# show ip sla statistics 22
+IPSLAs Latest Operation Statistics
+IPSLA operation id: 22
+
+R1(config)# no ip route 0.0.0.0 0.0.0.0 209.165.201.1
+R1(config)# ip route 0.0.0.0 0.0.0.0 209.165.201.1 5
+R1(config)# exit
+
+R1# show ip route | begin Gateway
+Gateway of last resort is 209.165.201.1 to network 0.0.0.0
+
+R1(config)# track 1 ip sla 11 reachability
+R1(config-track)#
+
+R1(config-track)# delay down 10 up 1
+R1(config-track)# exit
+
+R1# debug ip routing
+IP routing debugging is on
+R1#
+
+R1(config)# ip route 0.0.0.0 0.0.0.0 209.165.201.1 2 track 1
+R1(config)#
+Jan 10 10:45:39.119: RT: updating static 0.0.0.0/0 (0x0) :
+
+R1(config)# track 2 ip sla 22 reachability
+R1(config-track)# delay down 10 up 1
+R1(config-track)# exit
+R1(config)#
+R1(config)# ip route 0.0.0.0 0.0.0.0 209.165.202.129 3 track 2
+R1(config)#
+
+ISP1(config-if)# int lo1
+
+ISP1(config-if)# shutdown
+ISP1(config-if)#
+Jan 10 10:53:25.091: %LINK-5-CHANGED: Interface Loopback1, changed state to administratively down
+
