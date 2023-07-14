@@ -1,0 +1,51 @@
+3 ISP1 Routers(down, left, right)
+=========R1==========
+conf t
+hostname R1
+interface Loopback 0
+ip address 192.168.1.1 255.255.255.0
+exit
+
+interface S3/0
+ip address 209.165.201.2 255.255.255.252
+clock rate 128000
+bandwidth 128
+no shutdown
+exit
+
+interface S3/1
+ip address 209.165.202.130 255.255.255.252
+bandwidth 128
+no shutdown
+exit
+
+======Router ISP1(R2)========
+conf t
+hostname ISP1
+interface Loopback0
+ip address 209.165.200.254 255.255.255.255
+exit
+
+interface Loopback1
+ip address 209.165.201.30 255.255.255.255
+interface S3/0
+ip address 209.165.201.1 255.255.255.252
+bandwidth 128
+no shutdown
+exit
+
+interface S3/1
+ip address 209.165.200.225 255.255.255.252
+clock rate 128000
+bandwidth 128
+no shutdown
+exit
+
+======Router ISP2(R3)========
+conf t
+hostname ISP2
+interface Loopback0
+ip address 209.165.200.254 255.255.255.255
+exit
+
+interface
