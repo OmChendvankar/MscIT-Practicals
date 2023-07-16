@@ -1,0 +1,22 @@
+Working with Docker
+
+a) Pull an existing image from docker and push it to docker repository and run it.
+
+• Go to Docker Hub using the following URL: https://hub.docker.com/
+• Sign in and create repository
+• Go to Docker Playground : https://labs.play-with-docker.com/
+• ‘docker --version’
+• ‘docker pull hello-world’
+• ‘docker images’
+• ‘docker login’
+• ‘docker tag <imageid> <username>/<repository_name>:tag_name’
+• ‘docker push <username>/<repository_name>:tag_name’
+
+
+b) Build your own image and then push it to the docker repository and run it.
+• cat > Dockerfile << EOF
+  FROM busybox
+  cmd echo “Hello World! This is my first docker image”
+• ‘docker build -t <username>/<repository_name> .’
+• ‘docker push <username>/<repository_name> .’
+• ‘docker run <username>/<repository_name>’
