@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\omche\\Documents\\GitHub\\MscIT-Practicals\\Sem-2\\MSA-Practicals\\1-Console_ASP_APP\\1-Console_ASP_APP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\omche\\Documents\\GitHub\\MscIT-Practicals\\Sem-2\\MSA-Practicals\\1-Console_ASP_APP\\1-Console_ASP_APP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omche\\Documents\\GitHub\\MscIT-Practicals\\Sem-2\\MSA-Practicals\\1-Console_ASP_APP\\1-Console_ASP_APP.csproj",
+        "projectName": "1-Console_ASP_APP",
+        "projectPath": "C:\\Users\\omche\\Documents\\GitHub\\MscIT-Practicals\\Sem-2\\MSA-Practicals\\1-Console_ASP_APP\\1-Console_ASP_APP.csproj",
+        "packagesPath": "C:\\Users\\omche\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omche\\Documents\\GitHub\\MscIT-Practicals\\Sem-2\\MSA-Practicals\\1-Console_ASP_APP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omche\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
