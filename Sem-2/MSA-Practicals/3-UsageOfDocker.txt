@@ -1,0 +1,25 @@
+Working with Docker
+
+Step 1: Install WSL command
+• Open PowerShell or Windows Command Prompt in administrator mode.
+• Enter the ‘wsl’ command. WSL stands for Windows Subsystem for Linux.
+• To see a list of available Linux distributions available for download through the online store, enter: ‘wsl -l -o’.
+• To install Linux distributions use the command: ‘wsl --install -d <Distribution Name>’.
+
+Step 2: Install Docker Desktop
+• Download Docker Desktop using the following link:
+https://www.docker.com/products/docker-desktop/
+• Install Docker Desktop
+• Go to command prompt, to check docker installation enter: ‘docker’
+• To check version of Docker, enter the following command: ‘docker --version’
+
+Step 3: Publishing an existing image into Docker container
+• To publish an existing docker ‘hello world’ image into a docker container, use:
+‘docker run -p 8080:8080 dotnetcoreservices/hello-world’
+• Copy the URL from the above output and paste it in any browser. Change the IP address in the
+URL to ‘127.0.0.1’.
+• Also if you go to Docker Desktop → Images, you will see that the hello-world image has been
+published in the container.
+• To run the image in the command prompt enter: ‘curl
+http://localhost:8080/will/it/blend?’.curl or ClientURL is a command line
+tool that enables data exchange between a device and a server through a terminal.
