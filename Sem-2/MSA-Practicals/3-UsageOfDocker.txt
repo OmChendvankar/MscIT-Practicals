@@ -23,3 +23,6 @@ published in the container.
 • To run the image in the command prompt enter: ‘curl
 http://localhost:8080/will/it/blend?’.curl or ClientURL is a command line
 tool that enables data exchange between a device and a server through a terminal.
+• To list all containers, use: ‘docker ps’.
+• To delete or kill a Docker container, use ‘docker kill <Container ID>’.
+• Verify deletion using ‘docker ps’.
