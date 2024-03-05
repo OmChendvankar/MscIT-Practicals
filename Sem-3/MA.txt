@@ -1,0 +1,38 @@
+1st Prac
+Lab01
+PeView - header,rdata,text,rscr
+PeID - Packed or unpacked
+Dependancy Walker - Immported dlls & Functions
+strings - to check the strings in exe
+
+Lab03-1
+ApateDNS (netcat-win32-1.12>nc.exe -L -p 80/443)
+Regshot (Take 1st Snapshot)
+Open Wireshark & Process Monitor filter windows process
+Run the Malware
+ProcMon>LowerPaneView>Dll
+ProcMon>LowerPaneView>Handles (shows files,registries,mutex)
+AdpateDNS (Show the url its connecting too)
+Regshot (2nd Snapshot) 
+
+Lab03-2
+Take 1st Regshot
+"rundll32.exe dll_path,installA"
+Take 2nd Regshot 
+IPRIP Service added by the malware
+run under svchost.exe
+net start IPRIP
+
+Lab03-3 (KEYLOGGER)
+Regshot (take snapshots)
+Procmon filters
+run malware
+
+Lab03-04 
+Run Malware
+ProcMon
+Filter > ProcessName > Contains > Lab03-04
+Filter > Event Class > is > process (ProcessCreate)
+
+
+
